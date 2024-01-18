@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_kfc=self.webpackChunktest_kfc||[]).push([[5427],{118:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/documentacion-DSI/blog/tags/hello","allTagsPath":"/documentacion-DSI/blog/tags","count":2,"unlisted":false}')}}]);
