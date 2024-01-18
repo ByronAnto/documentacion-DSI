@@ -99,79 +99,19 @@ export default [
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', '680'),
+    component: ComponentCreator('/documentacion-DSI/docs', '77a'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '499'),
+        component: ComponentCreator('/documentacion-DSI/docs', '160'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'c4a'),
+            component: ComponentCreator('/documentacion-DSI/docs', '502'),
             routes: [
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/Canales Digitales',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/Canales Digitales', 'a04'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/congratulations',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/congratulations', 'e67'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post', '181'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/create-a-document',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/create-a-document', '0be'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/create-a-page',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/create-a-page', '1b6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/deploy-your-site',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/deploy-your-site', '573'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Canales-Digitales/markdown-features',
-                component: ComponentCreator('/documentacion-DSI/docs/Canales-Digitales/markdown-features', '5a0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/category/canales-digitales',
-                component: ComponentCreator('/documentacion-DSI/docs/category/canales-digitales', 'd45'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/category/facturación-electronica',
-                component: ComponentCreator('/documentacion-DSI/docs/category/facturación-electronica', '0f8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/documentacion-DSI/docs/category/maxpoint',
                 component: ComponentCreator('/documentacion-DSI/docs/category/maxpoint', 'ecb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/category/sir',
-                component: ComponentCreator('/documentacion-DSI/docs/category/sir', '7e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -184,48 +124,6 @@ export default [
               {
                 path: '/documentacion-DSI/docs/category/tutorial---extras',
                 component: ComponentCreator('/documentacion-DSI/docs/category/tutorial---extras', '64c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/congratulations',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/congratulations', 'b94'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post', '4e7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/create-a-document',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/create-a-document', '9e3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/create-a-page',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/create-a-page', '413'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site', '65e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica', 'dd5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Facturacion-Electronica/markdown-features',
-                component: ComponentCreator('/documentacion-DSI/docs/Facturacion-Electronica/markdown-features', '343'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -272,50 +170,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT', 'e1b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentacion-DSI/docs/Maxpoint/markdown-features',
                 component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/markdown-features', '7ef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/congratulations',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/congratulations', '1ff'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/create-a-blog-post',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/create-a-blog-post', '8dd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/create-a-document',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/create-a-document', 'fe4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/create-a-page',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/create-a-page', '466'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/deploy-your-site',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/deploy-your-site', 'abe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/markdown-features',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/markdown-features', 'b1c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/SIR/Maxpoint',
-                component: ComponentCreator('/documentacion-DSI/docs/SIR/Maxpoint', '23c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

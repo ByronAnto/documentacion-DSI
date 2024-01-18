@@ -186,62 +186,22 @@
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-680": {
+  "/documentacion-DSI/docs-77a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentacion-dsi-docs-246-940"
     }
   },
-  "/documentacion-DSI/docs-499": {
+  "/documentacion-DSI/docs-160": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-c4a": {
+  "/documentacion-DSI/docs-502": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/Canales Digitales-a04": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-canales-digitales-436-007"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/congratulations-e67": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-congratulations-00-d-238"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post-181": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-create-a-blog-postee-3-ac4"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/create-a-document-0be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-create-a-document-210-09e"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/create-a-page-1b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-create-a-page-3-d-7-387"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/deploy-your-site-573": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-deploy-your-sitec-75-073"
-  },
-  "/documentacion-DSI/docs/Canales-Digitales/markdown-features-5a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-canales-digitales-markdown-features-87-c-b10"
-  },
-  "/documentacion-DSI/docs/category/canales-digitales-d45": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-canales-digitales-13-a-850"
-  },
-  "/documentacion-DSI/docs/category/facturación-electronica-0f8": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-2-fb-d37"
   },
   "/documentacion-DSI/docs/category/maxpoint-ecb": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-maxpoint-6-c-2-da9"
-  },
-  "/documentacion-DSI/docs/category/sir-7e5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-sir-6-ee-bb7"
   },
   "/documentacion-DSI/docs/category/tutorial---basics-cbf": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -250,34 +210,6 @@
   "/documentacion-DSI/docs/category/tutorial---extras-64c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-extras-87-e-2d5"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/congratulations-b94": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-congratulations-51-e-ef6"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post-4e7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-create-a-blog-postf-61-245"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/create-a-document-9e3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-create-a-document-09-f-0b8"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/create-a-page-413": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-create-a-pagecc-5-e68"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site-65e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-deploy-your-site-96-f-072"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica-dd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-29-f-9d9"
-  },
-  "/documentacion-DSI/docs/Facturacion-Electronica/markdown-features-343": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-facturacion-electronica-markdown-featurese-4-d-2f4"
   },
   "/documentacion-DSI/docs/intro-bc1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -307,37 +239,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-deploy-your-sitefa-7-083"
   },
+  "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT-e1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-manual-del-sistema-maxpoin-tb-6-d-a6f"
+  },
   "/documentacion-DSI/docs/Maxpoint/markdown-features-7ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-markdown-features-5-b-2-af9"
-  },
-  "/documentacion-DSI/docs/SIR/congratulations-1ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-congratulations-9-b-6-759"
-  },
-  "/documentacion-DSI/docs/SIR/create-a-blog-post-8dd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-create-a-blog-post-092-a77"
-  },
-  "/documentacion-DSI/docs/SIR/create-a-document-fe4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-create-a-documentd-0-b-005"
-  },
-  "/documentacion-DSI/docs/SIR/create-a-page-466": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-create-a-pagee-8-a-79f"
-  },
-  "/documentacion-DSI/docs/SIR/deploy-your-site-abe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-deploy-your-sitef-40-f04"
-  },
-  "/documentacion-DSI/docs/SIR/markdown-features-b1c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-markdown-features-92-d-e89"
-  },
-  "/documentacion-DSI/docs/SIR/Maxpoint-23c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-sir-maxpointad-9-f12"
   },
   "/documentacion-DSI/docs/tutorial-basics/congratulations-cda": {
     "__comp": "__comp---theme-doc-item-178-a40",

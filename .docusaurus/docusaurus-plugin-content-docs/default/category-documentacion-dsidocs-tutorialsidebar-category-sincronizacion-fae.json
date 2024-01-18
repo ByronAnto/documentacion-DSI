@@ -1,0 +1,16 @@
+{
+  "title": "Sincronizacion",
+  "description": "Documentacion Técnica del equipo CX de canales Digitales",
+  "slug": "/category/sincronizacion",
+  "permalink": "/documentacion-DSI/docs/category/sincronizacion",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/documentacion-DSI/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-page"
+    }
+  }
+}

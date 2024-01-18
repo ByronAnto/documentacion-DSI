@@ -20,378 +20,6 @@
           "contentPathLocalized": "C:\\github\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "id": "Canales-Digitales/Canales Digitales",
-              "title": "Canales Digitales",
-              "description": "This is my first Docusaurus document!",
-              "source": "@site/docs/Canales-Digitales/Canales Digitales.md",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/Canales Digitales",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/Canales Digitales",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/Canales Digitales.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/congratulations"
-              },
-              "next": {
-                "title": "Facturación Electronica",
-                "permalink": "/documentacion-DSI/docs/category/facturación-electronica"
-              }
-            },
-            {
-              "id": "Canales-Digitales/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/Canales-Digitales/congratulations.md",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/congratulations",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/deploy-your-site"
-              },
-              "next": {
-                "title": "Canales Digitales",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/Canales Digitales"
-              }
-            },
-            {
-              "id": "Canales-Digitales/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/Canales-Digitales/create-a-blog-post.md",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/create-a-blog-post",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/markdown-features"
-              }
-            },
-            {
-              "id": "Canales-Digitales/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/Canales-Digitales/create-a-document.md",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/create-a-document",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-document",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post"
-              }
-            },
-            {
-              "id": "Canales-Digitales/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/Canales-Digitales/create-a-page.md",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/create-a-page",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Canales Digitales",
-                "permalink": "/documentacion-DSI/docs/category/canales-digitales"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-document"
-              }
-            },
-            {
-              "id": "Canales-Digitales/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/Canales-Digitales/deploy-your-site.md",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/deploy-your-site",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/deploy-your-site",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/congratulations"
-              }
-            },
-            {
-              "id": "Canales-Digitales/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/Canales-Digitales/markdown-features.mdx",
-              "sourceDirName": "Canales-Digitales",
-              "slug": "/Canales-Digitales/markdown-features",
-              "permalink": "/documentacion-DSI/docs/Canales-Digitales/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales-Digitales/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/Canales-Digitales/deploy-your-site"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/Facturacion-Electronica/congratulations.md",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/congratulations",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site"
-              },
-              "next": {
-                "title": "Facturacion Electronica",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/Facturacion-Electronica/create-a-blog-post.md",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/create-a-blog-post",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/markdown-features"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/Facturacion-Electronica/create-a-document.md",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/create-a-document",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-document",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/Facturacion-Electronica/create-a-page.md",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/create-a-page",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Facturación Electronica",
-                "permalink": "/documentacion-DSI/docs/category/facturación-electronica"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-document"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/Facturacion-Electronica/deploy-your-site.md",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/deploy-your-site",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/congratulations"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/Facturacion Electronica",
-              "title": "Facturacion Electronica",
-              "description": "This is my first Docusaurus document!",
-              "source": "@site/docs/Facturacion-Electronica/Facturacion Electronica.md",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/Facturacion Electronica",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/Facturacion Electronica.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/congratulations"
-              },
-              "next": {
-                "title": "Maxpoint",
-                "permalink": "/documentacion-DSI/docs/category/maxpoint"
-              }
-            },
-            {
-              "id": "Facturacion-Electronica/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/Facturacion-Electronica/markdown-features.mdx",
-              "sourceDirName": "Facturacion-Electronica",
-              "slug": "/Facturacion-Electronica/markdown-features",
-              "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site"
-              }
-            },
-            {
               "id": "intro",
               "title": "Tutorial Intro",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
@@ -410,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Canales Digitales",
-                "permalink": "/documentacion-DSI/docs/category/canales-digitales"
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/category/maxpoint"
               }
             },
             {
@@ -437,8 +65,8 @@
                 "permalink": "/documentacion-DSI/docs/Maxpoint/deploy-your-site"
               },
               "next": {
-                "title": "Maxpoint",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/"
+                "title": "MANUAL DEL SISTEMA  MAXPOINT",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT"
               }
             },
             {
@@ -550,6 +178,30 @@
               }
             },
             {
+              "id": "Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
+              "title": "MANUAL DEL SISTEMA  MAXPOINT",
+              "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+              "source": "@site/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT.md",
+              "sourceDirName": "Maxpoint",
+              "slug": "/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/congratulations"
+              },
+              "next": {
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/"
+              }
+            },
+            {
               "id": "Maxpoint/markdown-features",
               "title": "Markdown Features",
               "description": "Docusaurus supports Markdown and a few additional features.",
@@ -592,194 +244,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/congratulations"
-              },
-              "next": {
-                "title": "SIR",
-                "permalink": "/documentacion-DSI/docs/category/sir"
-              }
-            },
-            {
-              "id": "SIR/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/SIR/congratulations.md",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/congratulations",
-              "permalink": "/documentacion-DSI/docs/SIR/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/SIR/deploy-your-site"
-              },
-              "next": {
-                "title": "Facturación Electronica",
-                "permalink": "/documentacion-DSI/docs/SIR/Maxpoint"
-              }
-            },
-            {
-              "id": "SIR/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/SIR/create-a-blog-post.md",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/create-a-blog-post",
-              "permalink": "/documentacion-DSI/docs/SIR/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/SIR/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/SIR/markdown-features"
-              }
-            },
-            {
-              "id": "SIR/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/SIR/create-a-document.md",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/create-a-document",
-              "permalink": "/documentacion-DSI/docs/SIR/create-a-document",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/documentacion-DSI/docs/SIR/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/SIR/create-a-blog-post"
-              }
-            },
-            {
-              "id": "SIR/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/SIR/create-a-page.md",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/create-a-page",
-              "permalink": "/documentacion-DSI/docs/SIR/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "SIR",
-                "permalink": "/documentacion-DSI/docs/category/sir"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/SIR/create-a-document"
-              }
-            },
-            {
-              "id": "SIR/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/SIR/deploy-your-site.md",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/deploy-your-site",
-              "permalink": "/documentacion-DSI/docs/SIR/deploy-your-site",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/SIR/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/SIR/congratulations"
-              }
-            },
-            {
-              "id": "SIR/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/SIR/markdown-features.mdx",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/markdown-features",
-              "permalink": "/documentacion-DSI/docs/SIR/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/SIR/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/SIR/deploy-your-site"
-              }
-            },
-            {
-              "id": "SIR/Maxpoint",
-              "title": "Facturación Electronica",
-              "description": "first Docusaurus document!",
-              "source": "@site/docs/SIR/Maxpoint.md",
-              "sourceDirName": "SIR",
-              "slug": "/SIR/Maxpoint",
-              "permalink": "/documentacion-DSI/docs/SIR/Maxpoint",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/Maxpoint.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/SIR/congratulations"
+                "title": "MANUAL DEL SISTEMA  MAXPOINT",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT"
               },
               "next": {
                 "title": "Tutorial - Basics",
@@ -1008,90 +474,6 @@
               },
               {
                 "type": "category",
-                "label": "Canales Digitales",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/congratulations"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Canales-Digitales/Canales Digitales"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "Documentacion Técnica del equipo CX de canales Digitales",
-                  "slug": "/category/canales-digitales",
-                  "permalink": "/documentacion-DSI/docs/category/canales-digitales"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Facturación Electronica",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/congratulations"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion-Electronica/Facturacion Electronica"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/facturación-electronica",
-                  "permalink": "/documentacion-DSI/docs/category/facturación-electronica"
-                }
-              },
-              {
-                "type": "category",
                 "label": "Maxpoint",
                 "collapsible": true,
                 "collapsed": true,
@@ -1122,6 +504,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "Maxpoint/MANUAL DEL SISTEMA  MAXPOINT"
+                  },
+                  {
+                    "type": "doc",
                     "id": "Maxpoint/Maxpoint"
                   }
                 ],
@@ -1130,48 +516,6 @@
                   "description": "Documentación de sistema de Facturación POS Maxpointde las tiendas de Grupo KFC.",
                   "slug": "/category/maxpoint",
                   "permalink": "/documentacion-DSI/docs/category/maxpoint"
-                }
-              },
-              {
-                "type": "category",
-                "label": "SIR",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "SIR/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SIR/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SIR/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SIR/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SIR/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SIR/congratulations"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "SIR/Maxpoint"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "Documentación de sistema de Facturación POS Maxpointde las tiendas de Grupo KFC.",
-                  "slug": "/category/sir",
-                  "permalink": "/documentacion-DSI/docs/category/sir"
                 }
               },
               {
