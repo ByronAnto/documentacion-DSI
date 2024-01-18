@@ -240,7 +240,7 @@
           },
           {
             "type": "link",
-            "label": "SIR",
+            "label": "Facturación Electronica",
             "href": "/documentacion-DSI/docs/SIR/Maxpoint",
             "docId": "SIR/Maxpoint",
             "unlisted": false
@@ -495,7 +495,7 @@
     },
     "SIR/Maxpoint": {
       "id": "SIR/Maxpoint",
-      "title": "SIR",
+      "title": "Facturación Electronica",
       "description": "first Docusaurus document!",
       "sidebar": "tutorialSidebar"
     },
