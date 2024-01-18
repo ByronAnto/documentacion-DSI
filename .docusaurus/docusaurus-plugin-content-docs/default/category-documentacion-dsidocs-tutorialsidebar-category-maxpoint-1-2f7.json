@@ -1,0 +1,16 @@
+{
+  "title": "Maxpoint",
+  "description": "Documentación de sistema de Facturación POS Maxpointde las tiendas de Grupo KFC.",
+  "slug": "/category/maxpoint-1",
+  "permalink": "/documentacion-DSI/docs/category/maxpoint-1",
+  "navigation": {
+    "previous": {
+      "title": "Maxpoint",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/documentacion-DSI/docs/SIR/create-a-page"
+    }
+  }
+}

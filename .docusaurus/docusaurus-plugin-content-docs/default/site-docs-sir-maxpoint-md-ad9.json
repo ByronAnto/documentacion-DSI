@@ -1,0 +1,24 @@
+{
+  "id": "SIR/Maxpoint",
+  "title": "SIR",
+  "description": "first Docusaurus document!",
+  "source": "@site/docs/SIR/Maxpoint.md",
+  "sourceDirName": "SIR",
+  "slug": "/SIR/Maxpoint",
+  "permalink": "/documentacion-DSI/docs/SIR/Maxpoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SIR/Maxpoint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/documentacion-DSI/docs/SIR/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/documentacion-DSI/docs/category/tutorial---basics"
+  }
+}

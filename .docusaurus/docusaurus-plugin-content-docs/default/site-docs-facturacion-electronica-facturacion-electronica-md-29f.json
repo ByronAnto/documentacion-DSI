@@ -1,0 +1,24 @@
+{
+  "id": "Facturacion-Electronica/Facturacion Electronica",
+  "title": "Facturacion Electronica",
+  "description": "This is my first Docusaurus document!",
+  "source": "@site/docs/Facturacion-Electronica/Facturacion Electronica.md",
+  "sourceDirName": "Facturacion-Electronica",
+  "slug": "/Facturacion-Electronica/Facturacion Electronica",
+  "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion-Electronica/Facturacion Electronica.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/congratulations"
+  },
+  "next": {
+    "title": "Maxpoint",
+    "permalink": "/documentacion-DSI/docs/category/maxpoint"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial---basics-2",
+  "permalink": "/documentacion-DSI/docs/category/tutorial---basics-2",
+  "navigation": {
+    "previous": {
+      "title": "Maxpoint",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-page"
+    }
+  }
+}

@@ -11,8 +11,148 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Canales-Digitales/Canales Digitales",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/Canales Digitales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales-Digitales/congratulations",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales-Digitales/create-a-blog-post",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales-Digitales/create-a-document",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales-Digitales/create-a-page",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales-Digitales/deploy-your-site",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales-Digitales/markdown-features",
+              "path": "/documentacion-DSI/docs/Canales-Digitales/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/congratulations",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/create-a-blog-post",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/create-a-document",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/create-a-page",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/deploy-your-site",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/Facturacion Electronica",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/Facturacion Electronica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion-Electronica/markdown-features",
+              "path": "/documentacion-DSI/docs/Facturacion-Electronica/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/documentacion-DSI/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/congratulations",
+              "path": "/documentacion-DSI/docs/Maxpoint/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/create-a-blog-post",
+              "path": "/documentacion-DSI/docs/Maxpoint/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/create-a-document",
+              "path": "/documentacion-DSI/docs/Maxpoint/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/create-a-page",
+              "path": "/documentacion-DSI/docs/Maxpoint/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/deploy-your-site",
+              "path": "/documentacion-DSI/docs/Maxpoint/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/markdown-features",
+              "path": "/documentacion-DSI/docs/Maxpoint/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Maxpoint",
+              "path": "/documentacion-DSI/docs/Maxpoint/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/congratulations",
+              "path": "/documentacion-DSI/docs/SIR/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/create-a-blog-post",
+              "path": "/documentacion-DSI/docs/SIR/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/create-a-document",
+              "path": "/documentacion-DSI/docs/SIR/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/create-a-page",
+              "path": "/documentacion-DSI/docs/SIR/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/deploy-your-site",
+              "path": "/documentacion-DSI/docs/SIR/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/markdown-features",
+              "path": "/documentacion-DSI/docs/SIR/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SIR/Maxpoint",
+              "path": "/documentacion-DSI/docs/SIR/Maxpoint",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +193,26 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/documentacion-DSI/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/canales-digitales",
+              "path": "/documentacion-DSI/docs/category/canales-digitales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/facturación-electronica",
+              "path": "/documentacion-DSI/docs/category/facturación-electronica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/maxpoint",
+              "path": "/documentacion-DSI/docs/category/maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sir",
+              "path": "/documentacion-DSI/docs/category/sir",
               "sidebar": "tutorialSidebar"
             },
             {

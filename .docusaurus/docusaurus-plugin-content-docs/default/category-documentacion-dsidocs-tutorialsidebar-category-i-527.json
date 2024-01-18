@@ -1,0 +1,16 @@
+{
+  "title": "i",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/i",
+  "permalink": "/documentacion-DSI/docs/category/i",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/documentacion-DSI/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-page"
+    }
+  }
+}
