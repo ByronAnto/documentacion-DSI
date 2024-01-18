@@ -623,7 +623,7 @@
                 "permalink": "/documentacion-DSI/docs/SIR/deploy-your-site"
               },
               "next": {
-                "title": "SIR",
+                "title": "Facturación Electronica",
                 "permalink": "/documentacion-DSI/docs/SIR/Maxpoint"
               }
             },
@@ -764,7 +764,7 @@
             },
             {
               "id": "SIR/Maxpoint",
-              "title": "SIR",
+              "title": "Facturación Electronica",
               "description": "first Docusaurus document!",
               "source": "@site/docs/SIR/Maxpoint.md",
               "sourceDirName": "SIR",
