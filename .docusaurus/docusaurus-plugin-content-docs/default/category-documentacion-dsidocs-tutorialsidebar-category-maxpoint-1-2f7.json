@@ -5,12 +5,21 @@
   "permalink": "/documentacion-DSI/docs/category/maxpoint-1",
   "navigation": {
     "previous": {
+<<<<<<< HEAD
+      "title": "Manual del Sistema Maxpoint",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint"
+    },
+    "next": {
+      "title": "Productos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/"
+=======
       "title": "Maxpoint",
       "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint"
     },
     "next": {
       "title": "Create a Page",
       "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-page"
+>>>>>>> 3a15d60c9025238caa43bca8e79cdce4d0f5bee2
     }
   }
 }
