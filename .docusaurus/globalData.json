@@ -11,38 +11,8 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Facturacion Electronica/Facturacion Electronica copy/congratulations",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-document",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-page",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
               "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Facturacion Electronica/Facturacion Electronica copy/markdown-features",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
