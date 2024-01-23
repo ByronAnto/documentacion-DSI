@@ -186,18 +186,26 @@
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-14d": {
+  "/documentacion-DSI/docs-cb0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentacion-dsi-docs-2-ec-f93"
     }
   },
-  "/documentacion-DSI/docs-370": {
+  "/documentacion-DSI/docs-375": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-aa5": {
+  "/documentacion-DSI/docs-c2f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/documentacion-DSI/docs/category/facturación-electronica-0f8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-2-fb-d37"
+  },
+  "/documentacion-DSI/docs/category/facturación-electronica-1-963": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-133-d-8d1"
   },
   "/documentacion-DSI/docs/category/kioskos-e8f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -222,6 +230,42 @@
   "/documentacion-DSI/docs/category/tutorial---extras-64c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-extras-87-e-2d5"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/congratulations-81a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-congratulationsf-32-d71"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post-205": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-create-a-blog-posta-5-a-bb9"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-document-942": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-create-a-document-091-4d5"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-page-48c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-create-a-pagecb-9-225"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/deploy-your-site-b6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-deploy-your-site-663-9c1"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT-945": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-manual-del-sistema-maxpoint-69-e-f28"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/markdown-features-9cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-markdown-featuresc-49-944"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint-67d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-maxpointe-58-5bd"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint-f0f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-maxpoint-82-e-08a"
   },
   "/documentacion-DSI/docs/intro-bc1": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,16 +1,16 @@
 {
   "title": "Facturación Electronica",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "description": "FE",
   "slug": "/category/facturación-electronica",
   "permalink": "/documentacion-DSI/docs/category/facturación-electronica",
   "navigation": {
     "previous": {
-      "title": "Tutorial Intro",
-      "permalink": "/documentacion-DSI/docs/intro"
+      "title": "Congratulations!",
+      "permalink": "/documentacion-DSI/docs/tutorial-basics/congratulations"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-page"
+      "title": "Facturación Electronica",
+      "permalink": "/documentacion-DSI/docs/category/facturación-electronica-1"
     }
   }
 }

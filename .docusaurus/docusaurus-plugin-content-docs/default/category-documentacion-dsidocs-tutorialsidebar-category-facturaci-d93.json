@@ -1,0 +1,16 @@
+{
+  "title": "Facturaci",
+  "description": "Documentación de sistema de Facturación POS Maxpointde las tiendas de Grupo KFC.",
+  "slug": "/category/facturaci",
+  "permalink": "/documentacion-DSI/docs/category/facturaci",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/documentacion-DSI/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/documentacion-DSI/docs/Facturacion Electronica/create-a-page"
+    }
+  }
+}

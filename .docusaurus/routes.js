@@ -99,16 +99,28 @@ export default [
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', '14d'),
+    component: ComponentCreator('/documentacion-DSI/docs', 'cb0'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '370'),
+        component: ComponentCreator('/documentacion-DSI/docs', '375'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'aa5'),
+            component: ComponentCreator('/documentacion-DSI/docs', 'c2f'),
             routes: [
+              {
+                path: '/documentacion-DSI/docs/category/facturación-electronica',
+                component: ComponentCreator('/documentacion-DSI/docs/category/facturación-electronica', '0f8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/facturación-electronica-1',
+                component: ComponentCreator('/documentacion-DSI/docs/category/facturación-electronica-1', '963'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/documentacion-DSI/docs/category/kioskos',
                 component: ComponentCreator('/documentacion-DSI/docs/category/kioskos', 'e8f'),
@@ -142,6 +154,60 @@ export default [
               {
                 path: '/documentacion-DSI/docs/category/tutorial---extras',
                 component: ComponentCreator('/documentacion-DSI/docs/category/tutorial---extras', '64c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/congratulations',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/congratulations', '81a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post', '205'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-document',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-document', '942'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-page',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-page', '48c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/deploy-your-site',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/deploy-your-site', 'b6a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT', '945'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/markdown-features',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/markdown-features', '9cb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint', '67d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Facturacion Electronica/Maxpoint',
+                component: ComponentCreator('/documentacion-DSI/docs/Facturacion Electronica/Maxpoint', 'f0f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

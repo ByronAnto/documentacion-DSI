@@ -1,0 +1,27 @@
+{
+  "id": "Facturacion Electronica/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/Facturacion Electronica/congratulations.md",
+  "sourceDirName": "Facturacion Electronica",
+  "slug": "/Facturacion Electronica/congratulations",
+  "permalink": "/documentacion-DSI/docs/Facturacion Electronica/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion Electronica/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/documentacion-DSI/docs/Facturacion Electronica/deploy-your-site"
+  },
+  "next": {
+    "title": "MANUAL DEL SISTEMA  MAXPOINT",
+    "permalink": "/documentacion-DSI/docs/Facturacion Electronica/MANUAL DEL SISTEMA  MAXPOINT"
+  }
+}
