@@ -11,6 +11,51 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/congratulations",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-document",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-page",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/markdown-features",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Maxpoint",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/documentacion-DSI/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -103,6 +148,16 @@
             {
               "id": "/category/tutorial---basics",
               "path": "/documentacion-DSI/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/facturación-electronica",
+              "path": "/documentacion-DSI/docs/category/facturación-electronica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/facturación-electronica-1",
+              "path": "/documentacion-DSI/docs/category/facturación-electronica-1",
               "sidebar": "tutorialSidebar"
             },
             {

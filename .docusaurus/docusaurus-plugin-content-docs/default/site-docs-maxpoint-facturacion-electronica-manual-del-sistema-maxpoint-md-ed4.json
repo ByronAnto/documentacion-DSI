@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Facturacion Electronica/MANUAL DEL SISTEMA  MAXPOINT",
+  "title": "MANUAL DEL SISTEMA  MAXPOINT",
+  "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+  "source": "@site/docs/Maxpoint/Facturacion Electronica/MANUAL DEL SISTEMA  MAXPOINT.md",
+  "sourceDirName": "Maxpoint/Facturacion Electronica",
+  "slug": "/Maxpoint/Facturacion Electronica/MANUAL DEL SISTEMA  MAXPOINT",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Facturacion Electronica/MANUAL DEL SISTEMA  MAXPOINT",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Facturacion Electronica/MANUAL DEL SISTEMA  MAXPOINT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Facturacion Electronica/congratulations"
+  },
+  "next": {
+    "title": "Maxpoint",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Facturacion Electronica/Maxpoint"
+  }
+}

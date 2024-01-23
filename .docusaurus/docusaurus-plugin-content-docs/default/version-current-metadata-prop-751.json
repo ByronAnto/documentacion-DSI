@@ -134,6 +134,87 @@
       },
       {
         "type": "category",
+        "label": "Facturación Electronica",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Facturación Electronica",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Create a Page",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-page",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/create-a-page",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Create a Document",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-document",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/create-a-document",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Create a Blog Post",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Markdown Features",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/markdown-features",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/markdown-features",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Deploy your site",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Congratulations!",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/congratulations",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/congratulations",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "MANUAL DEL SISTEMA  MAXPOINT",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Maxpoint",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/facturación-electronica-1"
+          },
+          {
+            "type": "link",
+            "label": "Maxpoint",
+            "href": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
+            "docId": "Facturacion Electronica/Maxpoint",
+            "unlisted": false
+          }
+        ],
+        "href": "/documentacion-DSI/docs/category/facturación-electronica"
+      },
+      {
+        "type": "category",
         "label": "Tutorial - Extras",
         "collapsible": true,
         "collapsed": true,
@@ -158,6 +239,60 @@
     ]
   },
   "docs": {
+    "Facturacion Electronica/Facturacion Electronica copy/congratulations": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/create-a-document": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/create-a-page": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/deploy-your-site": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+      "title": "MANUAL DEL SISTEMA  MAXPOINT",
+      "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/markdown-features": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/Maxpoint": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+      "title": "Maxpoint",
+      "description": "first Docusaurus document!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Maxpoint": {
+      "id": "Facturacion Electronica/Maxpoint",
+      "title": "Maxpoint",
+      "description": "first Docusaurus document!",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",

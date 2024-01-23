@@ -1,0 +1,8 @@
+{
+  "label": "Facturación Electronica",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "FE"
+  }
+}

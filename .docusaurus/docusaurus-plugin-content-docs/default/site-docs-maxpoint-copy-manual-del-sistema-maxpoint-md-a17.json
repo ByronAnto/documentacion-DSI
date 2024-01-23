@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint copy/MANUAL DEL SISTEMA  MAXPOINT",
+  "title": "MANUAL DEL SISTEMA  MAXPOINT",
+  "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+  "source": "@site/docs/Maxpoint copy/MANUAL DEL SISTEMA  MAXPOINT.md",
+  "sourceDirName": "Maxpoint copy",
+  "slug": "/Maxpoint copy/MANUAL DEL SISTEMA  MAXPOINT",
+  "permalink": "/documentacion-DSI/docs/Maxpoint copy/MANUAL DEL SISTEMA  MAXPOINT",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint copy/MANUAL DEL SISTEMA  MAXPOINT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/documentacion-DSI/docs/Maxpoint copy/congratulations"
+  },
+  "next": {
+    "title": "Maxpoint",
+    "permalink": "/documentacion-DSI/docs/Maxpoint copy/Maxpoint"
+  }
+}
