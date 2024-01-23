@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\github\\documentacion-DSI\\sidebars.js",
-          "contentPath": "C:\\github\\documentacion-DSI\\docs",
-          "contentPathLocalized": "C:\\github\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\luis.suarez\\Documents\\GitHub\\documentacion-DSI\\sidebars.js",
+          "contentPath": "C:\\Users\\luis.suarez\\Documents\\GitHub\\documentacion-DSI\\docs",
+          "contentPathLocalized": "C:\\Users\\luis.suarez\\Documents\\GitHub\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "intro",
@@ -43,97 +43,44 @@
               }
             },
             {
-              "id": "Maxpoint/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/Maxpoint/congratulations.md",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/congratulations",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/congratulations",
+              "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
+              "title": "Configuración de Políticas Kiosko",
+              "description": "Introducción - En este manual se detalla las configuraciones de las políticas que se deben configurar en el BackOffice de Max-Point para el correcto funcionamiento de Kiosko.",
+              "source": "@site/docs/Maxpoint/Kioskos/Descargar Productos y Precios.md",
+              "sourceDirName": "Maxpoint/Kioskos",
+              "slug": "/Maxpoint/Kioskos/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/deploy-your-site"
-              },
-              "next": {
-                "title": "MANUAL DEL SISTEMA  MAXPOINT",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT"
-              }
-            },
-            {
-              "id": "Maxpoint/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/Maxpoint/create-a-blog-post.md",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/create-a-blog-post",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Kioskos/Descargar Productos y Precios.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
+                "sidebar_label": "Configuración de Políticas Kiosko",
                 "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-document"
+                "title": "Kioskos",
+                "permalink": "/documentacion-DSI/docs/category/kioskos"
               },
               "next": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/markdown-features"
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/category/productos"
               }
             },
             {
-              "id": "Maxpoint/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/Maxpoint/create-a-document.md",
+              "id": "Maxpoint/Manual del Sistema Maxpoint",
+              "title": "Manual del Sistema Maxpoint",
+              "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+              "source": "@site/docs/Maxpoint/Manual del Sistema Maxpoint.md",
               "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/create-a-document",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-document",
+              "slug": "/Maxpoint/Manual del Sistema Maxpoint",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-blog-post"
-              }
-            },
-            {
-              "id": "Maxpoint/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/Maxpoint/create-a-page.md",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/create-a-page",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/create-a-page.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Manual del Sistema Maxpoint.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -146,106 +93,55 @@
                 "permalink": "/documentacion-DSI/docs/category/maxpoint"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-document"
+                "title": "Kioskos",
+                "permalink": "/documentacion-DSI/docs/category/kioskos"
               }
             },
             {
-              "id": "Maxpoint/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/Maxpoint/deploy-your-site.md",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/deploy-your-site",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/deploy-your-site",
+              "id": "Maxpoint/Productos/Descargar Productos y Precios",
+              "title": "Productos",
+              "description": "1.\tProductos",
+              "source": "@site/docs/Maxpoint/Productos/Descargar Productos y Precios.md",
+              "sourceDirName": "Maxpoint/Productos",
+              "slug": "/Maxpoint/Productos/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/deploy-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Descargar Productos y Precios.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markdown Features",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/markdown-features"
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/category/productos"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/congratulations"
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/category/productos-1"
               }
             },
             {
-              "id": "Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
-              "title": "MANUAL DEL SISTEMA  MAXPOINT",
-              "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
-              "source": "@site/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT.md",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
+              "id": "Maxpoint/Restaurantes/Descargar Productos y Precios",
+              "title": "Restaurante",
+              "description": "",
+              "source": "@site/docs/Maxpoint/Restaurantes/Descargar Productos y Precios.md",
+              "sourceDirName": "Maxpoint/Restaurantes",
+              "slug": "/Maxpoint/Restaurantes/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/Descargar Productos y Precios",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/Descargar Productos y Precios.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Congratulations!",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/congratulations"
-              },
-              "next": {
-                "title": "Maxpoint",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/"
-              }
-            },
-            {
-              "id": "Maxpoint/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/Maxpoint/markdown-features.mdx",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/markdown-features",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/deploy-your-site"
-              }
-            },
-            {
-              "id": "Maxpoint/Maxpoint",
-              "title": "Maxpoint",
-              "description": "first Docusaurus document!",
-              "source": "@site/docs/Maxpoint/Maxpoint.md",
-              "sourceDirName": "Maxpoint",
-              "slug": "/Maxpoint/",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Maxpoint.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "MANUAL DEL SISTEMA  MAXPOINT",
-                "permalink": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT"
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/category/productos-1"
               },
               "next": {
                 "title": "Tutorial - Basics",
@@ -480,40 +376,67 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Maxpoint/create-a-page"
+                    "id": "Maxpoint/Manual del Sistema Maxpoint"
                   },
                   {
-                    "type": "doc",
-                    "id": "Maxpoint/create-a-document"
+                    "type": "category",
+                    "label": "Kioskos",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
+                        "label": "Configuración de Políticas Kiosko"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/kioskos",
+                      "permalink": "/documentacion-DSI/docs/category/kioskos"
+                    }
                   },
                   {
-                    "type": "doc",
-                    "id": "Maxpoint/create-a-blog-post"
+                    "type": "category",
+                    "label": "Productos",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Maxpoint/Productos/Descargar Productos y Precios"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/productos",
+                      "permalink": "/documentacion-DSI/docs/category/productos"
+                    }
                   },
                   {
-                    "type": "doc",
-                    "id": "Maxpoint/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Maxpoint/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Maxpoint/congratulations"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Maxpoint/MANUAL DEL SISTEMA  MAXPOINT"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Maxpoint/Maxpoint"
+                    "type": "category",
+                    "label": "Productos",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Maxpoint/Restaurantes/Descargar Productos y Precios"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/productos-1",
+                      "permalink": "/documentacion-DSI/docs/category/productos-1"
+                    }
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Documentación de sistema de Facturación POS Maxpointde las tiendas de Grupo KFC.",
+                  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
                   "slug": "/category/maxpoint",
                   "permalink": "/documentacion-DSI/docs/category/maxpoint"
                 }

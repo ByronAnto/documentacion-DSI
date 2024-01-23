@@ -1,6 +1,6 @@
 {
   "title": "Maxpoint",
-  "description": "Documentación de sistema de Facturación POS Maxpointde las tiendas de Grupo KFC.",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
   "slug": "/category/maxpoint",
   "permalink": "/documentacion-DSI/docs/category/maxpoint",
   "navigation": {
@@ -9,8 +9,8 @@
       "permalink": "/documentacion-DSI/docs/intro"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/documentacion-DSI/docs/Maxpoint/create-a-page"
+      "title": "Manual del Sistema Maxpoint",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint"
     }
   }
 }

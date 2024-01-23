@@ -1,5 +1,0 @@
-# Maxpoint
-
- **first Docusaurus document**!
-
- 

@@ -14,11 +14,20 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
+<<<<<<< Updated upstream
     "title": "Congratulations!",
     "permalink": "/documentacion-DSI/docs/Maxpoint/congratulations"
   },
   "next": {
     "title": "Maxpoint",
     "permalink": "/documentacion-DSI/docs/Maxpoint/"
+=======
+    "title": "Tutorial Intro",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/intro"
+  },
+  "next": {
+    "title": "SIR",
+    "permalink": "/documentacion-DSI/docs/category/sir"
+>>>>>>> Stashed changes
   }
 }

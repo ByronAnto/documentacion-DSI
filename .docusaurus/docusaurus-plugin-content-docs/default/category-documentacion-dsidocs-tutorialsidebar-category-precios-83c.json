@@ -1,0 +1,16 @@
+{
+  "title": "Precios",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/precios",
+  "permalink": "/documentacion-DSI/docs/category/precios",
+  "navigation": {
+    "previous": {
+      "title": "Canales Digitales",
+      "permalink": "/documentacion-DSI/docs/Canales-Digitales/Canales Digitales"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/documentacion-DSI/docs/Facturacion-Electronica/create-a-page"
+    }
+  }
+}

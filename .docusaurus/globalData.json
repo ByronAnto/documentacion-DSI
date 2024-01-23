@@ -16,43 +16,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Maxpoint/congratulations",
-              "path": "/documentacion-DSI/docs/Maxpoint/congratulations",
+              "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Maxpoint/create-a-blog-post",
-              "path": "/documentacion-DSI/docs/Maxpoint/create-a-blog-post",
+              "id": "Maxpoint/Manual del Sistema Maxpoint",
+              "path": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Maxpoint/create-a-document",
-              "path": "/documentacion-DSI/docs/Maxpoint/create-a-document",
+              "id": "Maxpoint/Productos/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Maxpoint/create-a-page",
-              "path": "/documentacion-DSI/docs/Maxpoint/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/deploy-your-site",
-              "path": "/documentacion-DSI/docs/Maxpoint/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
-              "path": "/documentacion-DSI/docs/Maxpoint/MANUAL DEL SISTEMA  MAXPOINT",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/markdown-features",
-              "path": "/documentacion-DSI/docs/Maxpoint/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/Maxpoint",
-              "path": "/documentacion-DSI/docs/Maxpoint/",
+              "id": "Maxpoint/Restaurantes/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -98,6 +78,21 @@
             {
               "id": "/category/maxpoint",
               "path": "/documentacion-DSI/docs/category/maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/kioskos",
+              "path": "/documentacion-DSI/docs/category/kioskos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/productos",
+              "path": "/documentacion-DSI/docs/category/productos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/productos-1",
+              "path": "/documentacion-DSI/docs/category/productos-1",
               "sidebar": "tutorialSidebar"
             },
             {
