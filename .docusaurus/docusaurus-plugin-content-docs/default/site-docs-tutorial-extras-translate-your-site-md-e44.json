@@ -19,5 +19,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "Sincronización",
+    "permalink": "/documentacion-DSI/docs/category/sincronización"
   }
 }

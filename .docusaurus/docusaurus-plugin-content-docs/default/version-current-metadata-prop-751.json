@@ -31,6 +31,22 @@
           },
           {
             "type": "category",
+            "label": "Cupones",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Consumo de API de Cupones",
+                "href": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
+                "docId": "Maxpoint/Cupones/Descargar Productos y Precios",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/cupones"
+          },
+          {
+            "type": "category",
             "label": "Kioskos",
             "collapsible": true,
             "collapsed": true,
@@ -192,10 +208,53 @@
           }
         ],
         "href": "/documentacion-DSI/docs/category/tutorial---extras"
+      },
+      {
+        "type": "category",
+        "label": "Canales Digitales",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Sincronización",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Sincronización Colombia",
+                "href": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+                "docId": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Sincronización Creación En Aranda",
+                "href": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+                "docId": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/sincronización"
+          }
+        ]
       }
     ]
   },
   "docs": {
+    "Canales Digitales/Sincronizacion/sincronizacion-aranda": {
+      "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+      "title": "Sincronización Colombia",
+      "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/Sincronizacion/sincronizacion-aranda copy": {
+      "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+      "title": "Sincronización Creación En Aranda",
+      "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+      "sidebar": "tutorialSidebar"
+    },
     "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT": {
       "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
       "title": "MANUAL DEL SISTEMA  MAXPOINT",
@@ -218,6 +277,12 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Cupones/Descargar Productos y Precios": {
+      "id": "Maxpoint/Cupones/Descargar Productos y Precios",
+      "title": "Consumo de API de Cupones",
+      "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Kioskos/Descargar Productos y Precios": {

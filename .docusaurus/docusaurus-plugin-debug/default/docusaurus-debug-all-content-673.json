@@ -15,10 +15,57 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\github\\test1\\documentacion-DSI\\sidebars.js",
-          "contentPath": "C:\\github\\test1\\documentacion-DSI\\docs",
-          "contentPathLocalized": "C:\\github\\test1\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\fredt\\OneDrive\\Documentos\\maxpoint\\documentacion-DSI\\sidebars.js",
+          "contentPath": "C:\\Users\\fredt\\OneDrive\\Documentos\\maxpoint\\documentacion-DSI\\docs",
+          "contentPathLocalized": "C:\\Users\\fredt\\OneDrive\\Documentos\\maxpoint\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
+            {
+              "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "title": "Sincronización Colombia",
+              "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+              "source": "@site/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda.md",
+              "sourceDirName": "Canales Digitales/Sincronizacion",
+              "slug": "/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sincronización",
+                "permalink": "/documentacion-DSI/docs/category/sincronización"
+              },
+              "next": {
+                "title": "Sincronización Creación En Aranda",
+                "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy"
+              }
+            },
+            {
+              "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "title": "Sincronización Creación En Aranda",
+              "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+              "source": "@site/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy.md",
+              "sourceDirName": "Canales Digitales/Sincronizacion",
+              "slug": "/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sincronización Colombia",
+                "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda"
+              }
+            },
             {
               "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
               "title": "MANUAL DEL SISTEMA  MAXPOINT",
@@ -115,6 +162,30 @@
               }
             },
             {
+              "id": "Maxpoint/Cupones/Descargar Productos y Precios",
+              "title": "Consumo de API de Cupones",
+              "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
+              "source": "@site/docs/Maxpoint/Cupones/Descargar Productos y Precios.md",
+              "sourceDirName": "Maxpoint/Cupones",
+              "slug": "/Maxpoint/Cupones/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Cupones/Descargar Productos y Precios.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cupones",
+                "permalink": "/documentacion-DSI/docs/category/cupones"
+              },
+              "next": {
+                "title": "Kioskos",
+                "permalink": "/documentacion-DSI/docs/category/kioskos"
+              }
+            },
+            {
               "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
               "title": "Configuración de Políticas Kiosko",
               "description": "Introducción - En este manual se detalla las configuraciones de las políticas que se deben configurar en el BackOffice de Max-Point para el correcto funcionamiento de Kiosko.",
@@ -165,8 +236,8 @@
                 "permalink": "/documentacion-DSI/docs/category/maxpoint"
               },
               "next": {
-                "title": "Kioskos",
-                "permalink": "/documentacion-DSI/docs/category/kioskos"
+                "title": "Cupones",
+                "permalink": "/documentacion-DSI/docs/category/cupones"
               }
             },
             {
@@ -430,6 +501,10 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Sincronización",
+                "permalink": "/documentacion-DSI/docs/category/sincronización"
               }
             }
           ],
@@ -449,6 +524,24 @@
                   {
                     "type": "doc",
                     "id": "Maxpoint/Manual del Sistema Maxpoint"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Cupones",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Maxpoint/Cupones/Descargar Productos y Precios"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/cupones",
+                      "permalink": "/documentacion-DSI/docs/category/cupones"
+                    }
                   },
                   {
                     "type": "category",
@@ -611,6 +704,36 @@
                   "slug": "/category/tutorial---extras",
                   "permalink": "/documentacion-DSI/docs/category/tutorial---extras"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Canales Digitales",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Sincronización",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Manuales de Sincronización",
+                      "slug": "/category/sincronización",
+                      "permalink": "/documentacion-DSI/docs/category/sincronización"
+                    }
+                  }
+                ]
               }
             ]
           }

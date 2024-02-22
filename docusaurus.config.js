@@ -62,6 +62,8 @@ const config = {
     ],
   ],
 
+  
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -138,6 +140,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    
 };
 
 export default config;

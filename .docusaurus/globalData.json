@@ -11,6 +11,16 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "path": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "path": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
               "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
               "sidebar": "tutorialSidebar"
@@ -28,6 +38,11 @@
             {
               "id": "intro",
               "path": "/documentacion-DSI/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Cupones/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -96,6 +111,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/cupones",
+              "path": "/documentacion-DSI/docs/category/cupones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/kioskos",
               "path": "/documentacion-DSI/docs/category/kioskos",
               "sidebar": "tutorialSidebar"
@@ -128,6 +148,11 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/documentacion-DSI/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sincronización",
+              "path": "/documentacion-DSI/docs/category/sincronización",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -1,0 +1,16 @@
+{
+  "title": "Sincronización",
+  "description": "Manuales de Sincronización",
+  "slug": "/category/sincronización",
+  "permalink": "/documentacion-DSI/docs/category/sincronización",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/documentacion-DSI/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "Sincronización Colombia",
+      "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda"
+    }
+  }
+}
