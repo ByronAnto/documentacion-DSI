@@ -192,10 +192,53 @@
           }
         ],
         "href": "/documentacion-DSI/docs/category/tutorial---extras"
+      },
+      {
+        "type": "category",
+        "label": "Canales Digitales",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Sincronización",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Sincronización Colombia",
+                "href": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+                "docId": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Sincronización Creación En Aranda",
+                "href": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+                "docId": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/sincronización"
+          }
+        ]
       }
     ]
   },
   "docs": {
+    "Canales Digitales/Sincronizacion/sincronizacion-aranda": {
+      "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+      "title": "Sincronización Colombia",
+      "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/Sincronizacion/sincronizacion-aranda copy": {
+      "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+      "title": "Sincronización Creación En Aranda",
+      "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+      "sidebar": "tutorialSidebar"
+    },
     "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT": {
       "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
       "title": "MANUAL DEL SISTEMA  MAXPOINT",

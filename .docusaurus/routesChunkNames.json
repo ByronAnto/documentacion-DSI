@@ -1,262 +1,317 @@
 {
-  "/documentacion-DSI/blog-ae4": {
-    "__comp": "a6aa9e1f",
+  "/documentacion-DSI/__docusaurus/debug-4c2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "metadata": "eabb9f40"
-  },
-  "/documentacion-DSI/blog/archive-d95": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "archive": "64c817fc"
-  },
-  "/documentacion-DSI/blog/first-blog-post-0ea": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
-  },
-  "/documentacion-DSI/blog/long-blog-post-d10": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/documentacion-DSI/blog/mdx-blog-post-ea7": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
-  },
-  "/documentacion-DSI/blog/tags-f01": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "tags": "5a72ea3f"
-  },
-  "/documentacion-DSI/blog/tags/docusaurus-c51": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "tag": "1f5a6762",
-    "listMetadata": "7d06a5ec"
-  },
-  "/documentacion-DSI/blog/tags/facebook-161": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      }
-    ],
-    "tag": "bb5a1978",
-    "listMetadata": "1d75ab51"
-  },
-  "/documentacion-DSI/blog/tags/hello-f58": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "tag": "203325c4",
-    "listMetadata": "1a87835e"
-  },
-  "/documentacion-DSI/blog/tags/hola-78e": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "tag": "9c861f01",
-    "listMetadata": "85d2bb6e"
-  },
-  "/documentacion-DSI/blog/welcome-3a6": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "813e864f"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/documentacion-DSI/markdown-page-4d9": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "1fcadffa"
-    },
-    "content": "393be207"
-  },
-  "/documentacion-DSI/docs-ee9": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "eb70c429"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
     }
   },
-  "/documentacion-DSI/docs-2dd": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+  "/documentacion-DSI/__docusaurus/debug/config-23d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
+    }
   },
-  "/documentacion-DSI/docs-b86": {
-    "__comp": "a94703ab"
+  "/documentacion-DSI/__docusaurus/debug/content-eab": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
+    },
+    "allContent": "allContent---documentacion-dsi-docusaurus-debug-content-246-094"
+  },
+  "/documentacion-DSI/__docusaurus/debug/globalData-d01": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/metadata-1fc": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/registry-cd5": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/routes-591": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debugeb-7-c89"
+    }
+  },
+  "/documentacion-DSI/blog-7f3": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      },
+      {
+        "content": "content---documentacion-dsi-blogf-4-f-fa8"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-871-0f2"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-925-415"
+      }
+    ],
+    "metadata": "metadata---documentacion-dsi-blogeab-76e"
+  },
+  "/documentacion-DSI/blog/archive-42a": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "archive": "archive---documentacion-dsi-blog-archive-64-c-916"
+  },
+  "/documentacion-DSI/blog/first-blog-post-9d2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-first-blog-poste-27-bdf"
+  },
+  "/documentacion-DSI/blog/long-blog-post-025": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-long-blog-post-736-893"
+  },
+  "/documentacion-DSI/blog/mdx-blog-post-a0a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-mdx-blog-post-593-764"
+  },
+  "/documentacion-DSI/blog/tags-9d4": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "tags": "tags---documentacion-dsi-blog-tags-5-a-7-dc4"
+  },
+  "/documentacion-DSI/blog/tags/docusaurus-5aa": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      },
+      {
+        "content": "content---documentacion-dsi-blogf-4-f-fa8"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-871-0f2"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-925-415"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-docusaurus-1-f-5-495",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-docusaurus-7-d-0-9de"
+  },
+  "/documentacion-DSI/blog/tags/facebook-449": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-facebookbb-5-b9c",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-facebook-1-d-7-774"
+  },
+  "/documentacion-DSI/blog/tags/hello-8ec": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-871-0f2"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-hello-203-6db",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hello-1-a-8-371"
+  },
+  "/documentacion-DSI/blog/tags/hola-c01": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-925-415"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-hola-9-c-8-2c8",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hola-85-d-9aa"
+  },
+  "/documentacion-DSI/blog/welcome-795": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blogcda-aa3"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-welcomed-9-f-99c"
+  },
+  "/documentacion-DSI/markdown-page-a6f": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-markdown-pageb-33-4bc"
+    },
+    "content": "content---documentacion-dsi-markdown-page-393-798"
+  },
+  "/documentacion-DSI/docs-392": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docse-94-802"
+    }
+  },
+  "/documentacion-DSI/docs-697": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---documentacion-dsi-docs-935-df1"
+  },
+  "/documentacion-DSI/docs-aca": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda-252": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-sincronizacion-sincronizacion-arandaafb-676"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy-fec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-sincronizacion-sincronizacion-aranda-copyb-14-67b"
   },
   "/documentacion-DSI/docs/category/facturación-electronica-0f8": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "2fbef966"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-2-fb-d37"
   },
   "/documentacion-DSI/docs/category/facturación-electronica-1-963": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "33d7d900"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-133-d-8d1"
   },
   "/documentacion-DSI/docs/category/kioskos-e8f": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "60170059"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-kioskos-601-09d"
   },
   "/documentacion-DSI/docs/category/maxpoint-ecb": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "6c2e0ab0"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-maxpoint-6-c-2-da9"
   },
   "/documentacion-DSI/docs/category/productos-5a6": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "760bdbee"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-productos-760-958"
   },
   "/documentacion-DSI/docs/category/productos-1-9c5": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "2eb36f2c"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-productos-12-eb-aa8"
+  },
+  "/documentacion-DSI/docs/category/sincronización-e89": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-sincronizacion-32-b-7e4"
   },
   "/documentacion-DSI/docs/category/tutorial---basics-cbf": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "1718c43b"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-basics-171-252"
   },
   "/documentacion-DSI/docs/category/tutorial---extras-64c": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "87e15177"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-extras-87-e-2d5"
   },
   "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT-945": {
-    "__comp": "17896441",
-    "content": "69e0720c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-manual-del-sistema-maxpoint-69-e-f28"
   },
   "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint-67d": {
-    "__comp": "17896441",
-    "content": "e586290d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-maxpointe-58-5bd"
   },
   "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint-f0f": {
-    "__comp": "17896441",
-    "content": "82e83e96"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-maxpoint-82-e-08a"
   },
   "/documentacion-DSI/docs/intro-bc1": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-intro-0-e-3-b5a"
   },
   "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios-13b": {
-    "__comp": "17896441",
-    "content": "69035ead"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-kioskos-descargar-productos-y-precios-690-b90"
   },
   "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint-8b4": {
-    "__comp": "17896441",
-    "content": "33f9d26b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-manual-del-sistema-maxpoint-33-f-034"
   },
   "/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios-eb7": {
-    "__comp": "17896441",
-    "content": "0ffb9337"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-descargar-productos-y-precios-0-ff-62e"
   },
   "/documentacion-DSI/docs/Maxpoint/Restaurantes/Descargar Productos y Precios-0fb": {
-    "__comp": "17896441",
-    "content": "9ea43e75"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-restaurantes-descargar-productos-y-precios-9-ea-3d5"
   },
   "/documentacion-DSI/docs/tutorial-basics/congratulations-cda": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-congratulations-822-253"
   },
   "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post-89c": {
-    "__comp": "17896441",
-    "content": "533a09ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-create-a-blog-post-533-e79"
   },
   "/documentacion-DSI/docs/tutorial-basics/create-a-document-370": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-create-a-document-1-e-4-c7c"
   },
   "/documentacion-DSI/docs/tutorial-basics/create-a-page-ce7": {
-    "__comp": "17896441",
-    "content": "5c868d36"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-create-a-page-5-c-8-d2d"
   },
   "/documentacion-DSI/docs/tutorial-basics/deploy-your-site-f8c": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-deploy-your-sitef-55-d99"
   },
   "/documentacion-DSI/docs/tutorial-basics/markdown-features-56e": {
-    "__comp": "17896441",
-    "content": "18c41134"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-markdown-features-18-c-a56"
   },
   "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions-c15": {
-    "__comp": "17896441",
-    "content": "dff1c289"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-extras-manage-docs-versionsdff-d05"
   },
   "/documentacion-DSI/docs/tutorial-extras/translate-your-site-9f1": {
-    "__comp": "17896441",
-    "content": "e44a2883"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-extras-translate-your-sitee-44-61d"
   },
-  "/documentacion-DSI/-11f": {
-    "__comp": "c4f5d8e4",
+  "/documentacion-DSI/-8e4": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "1fcadffa"
+      "plugin": "plugin---documentacion-dsi-markdown-pageb-33-4bc"
     },
-    "config": "5e9f5e1a"
+    "config": "config---documentacion-dsi-5-e-9-323"
   }
 }

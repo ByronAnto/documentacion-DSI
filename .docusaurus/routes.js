@@ -3,77 +3,124 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/documentacion-DSI/__docusaurus/debug',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug', '4c2'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/config',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/config', '23d'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/content',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/content', 'eab'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/globalData',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/globalData', 'd01'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/metadata',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/metadata', '1fc'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/registry',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/registry', 'cd5'),
+    exact: true
+  },
+  {
+    path: '/documentacion-DSI/__docusaurus/debug/routes',
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/routes', '591'),
+    exact: true
+  },
+  {
     path: '/documentacion-DSI/blog',
-    component: ComponentCreator('/documentacion-DSI/blog', 'ae4'),
+    component: ComponentCreator('/documentacion-DSI/blog', '7f3'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/archive',
-    component: ComponentCreator('/documentacion-DSI/blog/archive', 'd95'),
+    component: ComponentCreator('/documentacion-DSI/blog/archive', '42a'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/first-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/first-blog-post', '0ea'),
+    component: ComponentCreator('/documentacion-DSI/blog/first-blog-post', '9d2'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/long-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/long-blog-post', 'd10'),
+    component: ComponentCreator('/documentacion-DSI/blog/long-blog-post', '025'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/mdx-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/mdx-blog-post', 'ea7'),
+    component: ComponentCreator('/documentacion-DSI/blog/mdx-blog-post', 'a0a'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags',
-    component: ComponentCreator('/documentacion-DSI/blog/tags', 'f01'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags', '9d4'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/docusaurus',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/docusaurus', 'c51'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/docusaurus', '5aa'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/facebook',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/facebook', '161'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/facebook', '449'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/hello',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/hello', 'f58'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/hello', '8ec'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/hola',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/hola', '78e'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/hola', 'c01'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/welcome',
-    component: ComponentCreator('/documentacion-DSI/blog/welcome', '3a6'),
+    component: ComponentCreator('/documentacion-DSI/blog/welcome', '795'),
     exact: true
   },
   {
     path: '/documentacion-DSI/markdown-page',
-    component: ComponentCreator('/documentacion-DSI/markdown-page', '4d9'),
+    component: ComponentCreator('/documentacion-DSI/markdown-page', 'a6f'),
     exact: true
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', 'ee9'),
+    component: ComponentCreator('/documentacion-DSI/docs', '392'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '2dd'),
+        component: ComponentCreator('/documentacion-DSI/docs', '697'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'b86'),
+            component: ComponentCreator('/documentacion-DSI/docs', 'aca'),
             routes: [
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda', '252'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy', 'fec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/documentacion-DSI/docs/category/facturación-electronica',
                 component: ComponentCreator('/documentacion-DSI/docs/category/facturación-electronica', '0f8'),
@@ -107,6 +154,12 @@ export default [
               {
                 path: '/documentacion-DSI/docs/category/productos-1',
                 component: ComponentCreator('/documentacion-DSI/docs/category/productos-1', '9c5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/sincronización',
+                component: ComponentCreator('/documentacion-DSI/docs/category/sincronización', 'e89'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -226,7 +279,7 @@ export default [
   },
   {
     path: '/documentacion-DSI/',
-    component: ComponentCreator('/documentacion-DSI/', '11f'),
+    component: ComponentCreator('/documentacion-DSI/', '8e4'),
     exact: true
   },
   {

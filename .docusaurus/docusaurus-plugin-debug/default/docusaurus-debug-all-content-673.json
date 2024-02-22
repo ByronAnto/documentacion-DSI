@@ -15,10 +15,57 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\github\\test1\\documentacion-DSI\\sidebars.js",
-          "contentPath": "C:\\github\\test1\\documentacion-DSI\\docs",
-          "contentPathLocalized": "C:\\github\\test1\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\jaira\\OneDrive\\Documentos\\documentacion-DSI\\sidebars.js",
+          "contentPath": "C:\\Users\\jaira\\OneDrive\\Documentos\\documentacion-DSI\\docs",
+          "contentPathLocalized": "C:\\Users\\jaira\\OneDrive\\Documentos\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
+            {
+              "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "title": "Sincronización Colombia",
+              "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+              "source": "@site/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda.md",
+              "sourceDirName": "Canales Digitales/Sincronizacion",
+              "slug": "/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sincronización",
+                "permalink": "/documentacion-DSI/docs/category/sincronización"
+              },
+              "next": {
+                "title": "Sincronización Creación En Aranda",
+                "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy"
+              }
+            },
+            {
+              "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "title": "Sincronización Creación En Aranda",
+              "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+              "source": "@site/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy.md",
+              "sourceDirName": "Canales Digitales/Sincronizacion",
+              "slug": "/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sincronización Colombia",
+                "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda"
+              }
+            },
             {
               "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
               "title": "MANUAL DEL SISTEMA  MAXPOINT",
@@ -430,6 +477,10 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Sincronización",
+                "permalink": "/documentacion-DSI/docs/category/sincronización"
               }
             }
           ],
@@ -611,6 +662,36 @@
                   "slug": "/category/tutorial---extras",
                   "permalink": "/documentacion-DSI/docs/category/tutorial---extras"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Canales Digitales",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Sincronización",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Manuales de Sincronización",
+                      "slug": "/category/sincronización",
+                      "permalink": "/documentacion-DSI/docs/category/sincronización"
+                    }
+                  }
+                ]
               }
             ]
           }

@@ -1,16 +1,16 @@
 {
   "title": "Canales Digitales",
-  "description": "Documentacion Técnica del equipo CX de canales Digitales",
+  "description": "FE",
   "slug": "/category/canales-digitales",
   "permalink": "/documentacion-DSI/docs/category/canales-digitales",
   "navigation": {
     "previous": {
-      "title": "Create a Page",
-      "permalink": "/documentacion-DSI/docs/Canales-Digitales/create-a-page"
+      "title": "Translate your site",
+      "permalink": "/documentacion-DSI/docs/tutorial-extras/translate-your-site"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/documentacion-DSI/docs/Canales-Digitales/Sincronizacion/create-a-page"
+      "title": "Sincronización Aranda",
+      "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda"
     }
   }
 }
