@@ -1,0 +1,16 @@
+{
+  "title": "Cupones",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/cupones",
+  "permalink": "/documentacion-DSI/docs/category/cupones",
+  "navigation": {
+    "previous": {
+      "title": "Manual del Sistema Maxpoint",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint"
+    },
+    "next": {
+      "title": "Consumo de API de Cupones",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios"
+    }
+  }
+}

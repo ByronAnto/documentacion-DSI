@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\github\\test1\\documentacion-DSI\\sidebars.js",
-          "contentPath": "C:\\github\\test1\\documentacion-DSI\\docs",
-          "contentPathLocalized": "C:\\github\\test1\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\fredt\\OneDrive\\Documentos\\maxpoint\\documentacion-DSI\\sidebars.js",
+          "contentPath": "C:\\Users\\fredt\\OneDrive\\Documentos\\maxpoint\\documentacion-DSI\\docs",
+          "contentPathLocalized": "C:\\Users\\fredt\\OneDrive\\Documentos\\maxpoint\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
@@ -115,6 +115,30 @@
               }
             },
             {
+              "id": "Maxpoint/Cupones/Descargar Productos y Precios",
+              "title": "Consumo de API de Cupones",
+              "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
+              "source": "@site/docs/Maxpoint/Cupones/Descargar Productos y Precios.md",
+              "sourceDirName": "Maxpoint/Cupones",
+              "slug": "/Maxpoint/Cupones/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Cupones/Descargar Productos y Precios.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cupones",
+                "permalink": "/documentacion-DSI/docs/category/cupones"
+              },
+              "next": {
+                "title": "Kioskos",
+                "permalink": "/documentacion-DSI/docs/category/kioskos"
+              }
+            },
+            {
               "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
               "title": "Configuración de Políticas Kiosko",
               "description": "Introducción - En este manual se detalla las configuraciones de las políticas que se deben configurar en el BackOffice de Max-Point para el correcto funcionamiento de Kiosko.",
@@ -165,8 +189,8 @@
                 "permalink": "/documentacion-DSI/docs/category/maxpoint"
               },
               "next": {
-                "title": "Kioskos",
-                "permalink": "/documentacion-DSI/docs/category/kioskos"
+                "title": "Cupones",
+                "permalink": "/documentacion-DSI/docs/category/cupones"
               }
             },
             {
@@ -449,6 +473,24 @@
                   {
                     "type": "doc",
                     "id": "Maxpoint/Manual del Sistema Maxpoint"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Cupones",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Maxpoint/Cupones/Descargar Productos y Precios"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/cupones",
+                      "permalink": "/documentacion-DSI/docs/category/cupones"
+                    }
                   },
                   {
                     "type": "category",

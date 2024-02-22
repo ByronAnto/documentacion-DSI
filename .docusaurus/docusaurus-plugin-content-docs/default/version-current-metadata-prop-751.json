@@ -31,6 +31,22 @@
           },
           {
             "type": "category",
+            "label": "Cupones",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Consumo de API de Cupones",
+                "href": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
+                "docId": "Maxpoint/Cupones/Descargar Productos y Precios",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/cupones"
+          },
+          {
+            "type": "category",
             "label": "Kioskos",
             "collapsible": true,
             "collapsed": true,
@@ -218,6 +234,12 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Cupones/Descargar Productos y Precios": {
+      "id": "Maxpoint/Cupones/Descargar Productos y Precios",
+      "title": "Consumo de API de Cupones",
+      "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Kioskos/Descargar Productos y Precios": {

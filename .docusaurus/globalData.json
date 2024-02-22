@@ -31,6 +31,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Maxpoint/Cupones/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
               "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
@@ -93,6 +98,11 @@
             {
               "id": "/category/maxpoint",
               "path": "/documentacion-DSI/docs/category/maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cupones",
+              "path": "/documentacion-DSI/docs/category/cupones",
               "sidebar": "tutorialSidebar"
             },
             {
