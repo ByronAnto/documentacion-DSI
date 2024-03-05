@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Canales Digitales/Cupones/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Canales Digitales/Cupones/Descargar Productos y Precios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
               "path": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
               "sidebar": "tutorialSidebar"
@@ -18,6 +23,36 @@
             {
               "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
               "path": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos",
+              "path": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/SWT - Canales/SQL_Profiler",
+              "path": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/SQL_Profiler",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/SWT - Canales/Switch",
+              "path": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/SWT - Canales/Switch Datafast",
+              "path": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Datafast",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/SWT - Canales/Switch Kioscos",
+              "path": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Kioscos",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -38,11 +73,6 @@
             {
               "id": "intro",
               "path": "/documentacion-DSI/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/Cupones/Descargar Productos y Precios",
-              "path": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -111,11 +141,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/cupones",
-              "path": "/documentacion-DSI/docs/category/cupones",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/kioskos",
               "path": "/documentacion-DSI/docs/category/kioskos",
               "sidebar": "tutorialSidebar"
@@ -148,6 +173,16 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/documentacion-DSI/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cupones",
+              "path": "/documentacion-DSI/docs/category/cupones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/swt-canales",
+              "path": "/documentacion-DSI/docs/category/swt-canales",
               "sidebar": "tutorialSidebar"
             },
             {

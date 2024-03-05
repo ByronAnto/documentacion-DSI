@@ -4,111 +4,165 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/documentacion-DSI/__docusaurus/debug',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug', '3cb'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug', 'a08'),
     exact: true
   },
   {
     path: '/documentacion-DSI/__docusaurus/debug/config',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/config', 'f9c'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/config', '947'),
     exact: true
   },
   {
     path: '/documentacion-DSI/__docusaurus/debug/content',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/content', '370'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/content', '99f'),
     exact: true
   },
   {
     path: '/documentacion-DSI/__docusaurus/debug/globalData',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/globalData', '0cc'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/globalData', '8ae'),
     exact: true
   },
   {
     path: '/documentacion-DSI/__docusaurus/debug/metadata',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/metadata', '016'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/metadata', '81d'),
     exact: true
   },
   {
     path: '/documentacion-DSI/__docusaurus/debug/registry',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/registry', '4ac'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/registry', '161'),
     exact: true
   },
   {
     path: '/documentacion-DSI/__docusaurus/debug/routes',
-    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/routes', '2b2'),
+    component: ComponentCreator('/documentacion-DSI/__docusaurus/debug/routes', '3ab'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog',
-    component: ComponentCreator('/documentacion-DSI/blog', 'a74'),
+    component: ComponentCreator('/documentacion-DSI/blog', '567'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/archive',
-    component: ComponentCreator('/documentacion-DSI/blog/archive', '61c'),
+    component: ComponentCreator('/documentacion-DSI/blog/archive', 'd56'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/first-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/first-blog-post', '576'),
+    component: ComponentCreator('/documentacion-DSI/blog/first-blog-post', '6dc'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/long-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/long-blog-post', '0ba'),
+    component: ComponentCreator('/documentacion-DSI/blog/long-blog-post', 'bb8'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/mdx-blog-post',
-    component: ComponentCreator('/documentacion-DSI/blog/mdx-blog-post', '250'),
+    component: ComponentCreator('/documentacion-DSI/blog/mdx-blog-post', 'bdf'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags',
-    component: ComponentCreator('/documentacion-DSI/blog/tags', 'b67'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags', '73b'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/docusaurus',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/docusaurus', '102'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/docusaurus', 'e56'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/facebook',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/facebook', 'b71'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/facebook', '4f6'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/hello',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/hello', 'dab'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/hello', 'd85'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/tags/hola',
-    component: ComponentCreator('/documentacion-DSI/blog/tags/hola', '3ac'),
+    component: ComponentCreator('/documentacion-DSI/blog/tags/hola', '195'),
     exact: true
   },
   {
     path: '/documentacion-DSI/blog/welcome',
-    component: ComponentCreator('/documentacion-DSI/blog/welcome', 'e2e'),
+    component: ComponentCreator('/documentacion-DSI/blog/welcome', 'dc0'),
     exact: true
   },
   {
     path: '/documentacion-DSI/markdown-page',
-    component: ComponentCreator('/documentacion-DSI/markdown-page', 'cf5'),
+    component: ComponentCreator('/documentacion-DSI/markdown-page', '5a3'),
     exact: true
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', '3af'),
+    component: ComponentCreator('/documentacion-DSI/docs', 'c1a'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '35c'),
+        component: ComponentCreator('/documentacion-DSI/docs', 'cc9'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'a0e'),
+            component: ComponentCreator('/documentacion-DSI/docs', '1aa'),
             routes: [
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/Cupones/Descargar Productos y Precios',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/Cupones/Descargar Productos y Precios', '457'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda', '252'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy', 'fec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios', '0be'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos', 'a7d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/SWT - Canales/SQL_Profiler',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/SWT - Canales/SQL_Profiler', '66f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch', 'b6a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Datafast',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Datafast', 'f06'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Kioscos',
+                component: ComponentCreator('/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Kioscos', '4c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/documentacion-DSI/docs/category/cupones',
                 component: ComponentCreator('/documentacion-DSI/docs/category/cupones', '06b'),
@@ -158,6 +212,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentacion-DSI/docs/category/swt-canales',
+                component: ComponentCreator('/documentacion-DSI/docs/category/swt-canales', '7a9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentacion-DSI/docs/category/tutorial---basics',
                 component: ComponentCreator('/documentacion-DSI/docs/category/tutorial---basics', 'cbf'),
                 exact: true,
@@ -190,12 +250,6 @@ export default [
               {
                 path: '/documentacion-DSI/docs/intro',
                 component: ComponentCreator('/documentacion-DSI/docs/intro', 'bc1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios',
-                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios', '008'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -279,11 +333,7 @@ export default [
   },
   {
     path: '/documentacion-DSI/',
-<<<<<<< HEAD
-    component: ComponentCreator('/documentacion-DSI/', '8e4'),
-=======
-    component: ComponentCreator('/documentacion-DSI/', '2f7'),
->>>>>>> 22ec8047a184da16fc55cdf11885910e4ffb32e2
+    component: ComponentCreator('/documentacion-DSI/', '6f8'),
     exact: true
   },
   {

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Kioskos/Ingreso Kioscos Locales_Nuevos",
+  "title": "INGRESO DE KIOSCOS PARA LOCALES NUEVOS.",
+  "description": "Contenido",
+  "source": "@site/docs/Maxpoint/Kioskos/Ingreso Kioscos Locales_Nuevos.md",
+  "sourceDirName": "Maxpoint/Kioskos",
+  "slug": "/Maxpoint/Kioskos/Ingreso Kioscos Locales_Nuevos",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Kioskos/Ingreso Kioscos Locales_Nuevos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Kioskos/Ingreso Kioscos Locales_Nuevos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuración de Políticas Kiosko",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios"
+  },
+  "next": {
+    "title": "Productos",
+    "permalink": "/documentacion-DSI/docs/category/productos"
+  }
+}

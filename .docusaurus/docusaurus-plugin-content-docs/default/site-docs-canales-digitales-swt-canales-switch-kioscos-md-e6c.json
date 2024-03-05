@@ -1,0 +1,24 @@
+{
+  "id": "Canales Digitales/SWT - Canales/Switch Kioscos",
+  "title": "Reporte Switch Kioscos",
+  "description": "Antecedentes",
+  "source": "@site/docs/Canales Digitales/SWT - Canales/Switch Kioscos.md",
+  "sourceDirName": "Canales Digitales/SWT - Canales",
+  "slug": "/Canales Digitales/SWT - Canales/Switch Kioscos",
+  "permalink": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Kioscos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/SWT - Canales/Switch Kioscos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reporte Switch Datafast",
+    "permalink": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Datafast"
+  },
+  "next": {
+    "title": "Switch",
+    "permalink": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch"
+  }
+}
