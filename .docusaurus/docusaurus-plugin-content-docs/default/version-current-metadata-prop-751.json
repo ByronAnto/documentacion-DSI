@@ -31,22 +31,6 @@
           },
           {
             "type": "category",
-            "label": "Cupones",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Consumo de API de Cupones",
-                "href": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios",
-                "docId": "Maxpoint/Cupones/Descargar Productos y Precios",
-                "unlisted": false
-              }
-            ],
-            "href": "/documentacion-DSI/docs/category/cupones"
-          },
-          {
-            "type": "category",
             "label": "Kioskos",
             "collapsible": true,
             "collapsed": true,
@@ -217,6 +201,73 @@
         "items": [
           {
             "type": "category",
+            "label": "Cupones",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Consumo de API de Cupones",
+                "href": "/documentacion-DSI/docs/Canales Digitales/Cupones/Descargar Productos y Precios",
+                "docId": "Canales Digitales/Cupones/Descargar Productos y Precios",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/cupones"
+          },
+          {
+            "type": "category",
+            "label": "SWT-Canales",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Consumo de API de Cupones",
+                "href": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+                "docId": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Ingreso De Kioscos Para Locales Nuevos",
+                "href": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos",
+                "docId": "Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Debuggear En SQL Server Profiler",
+                "href": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/SQL_Profiler",
+                "docId": "Canales Digitales/SWT - Canales/SQL_Profiler",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Reporte Switch Datafast",
+                "href": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Datafast",
+                "docId": "Canales Digitales/SWT - Canales/Switch Datafast",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Reporte Switch Kioscos",
+                "href": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Kioscos",
+                "docId": "Canales Digitales/SWT - Canales/Switch Kioscos",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Switch",
+                "href": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch",
+                "docId": "Canales Digitales/SWT - Canales/Switch",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/swt-canales"
+          },
+          {
+            "type": "category",
             "label": "Sincronización",
             "collapsible": true,
             "collapsed": true,
@@ -243,6 +294,12 @@
     ]
   },
   "docs": {
+    "Canales Digitales/Cupones/Descargar Productos y Precios": {
+      "id": "Canales Digitales/Cupones/Descargar Productos y Precios",
+      "title": "Consumo de API de Cupones",
+      "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
+      "sidebar": "tutorialSidebar"
+    },
     "Canales Digitales/Sincronizacion/sincronizacion-aranda": {
       "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
       "title": "Sincronización Colombia",
@@ -253,6 +310,42 @@
       "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda copy",
       "title": "Sincronización Creación En Aranda",
       "description": "Manual de Usuario - Sistema 2023 - Soporte App",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/SWT - Canales/Descargar Productos y Precios": {
+      "id": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+      "title": "Consumo de API de Cupones",
+      "description": "Prueba",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos": {
+      "id": "Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos",
+      "title": "Ingreso De Kioscos Para Locales Nuevos",
+      "description": "Contenido",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/SWT - Canales/SQL_Profiler": {
+      "id": "Canales Digitales/SWT - Canales/SQL_Profiler",
+      "title": "Debuggear En SQL Server Profiler",
+      "description": "Al ser una soporte de canales digitales, nos encargamos de verificar el canal de domicilio y el de kiosco.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/SWT - Canales/Switch": {
+      "id": "Canales Digitales/SWT - Canales/Switch",
+      "title": "Switch",
+      "description": "Antecedentes",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/SWT - Canales/Switch Datafast": {
+      "id": "Canales Digitales/SWT - Canales/Switch Datafast",
+      "title": "Reporte Switch Datafast",
+      "description": "Desarrollo",
+      "sidebar": "tutorialSidebar"
+    },
+    "Canales Digitales/SWT - Canales/Switch Kioscos": {
+      "id": "Canales Digitales/SWT - Canales/Switch Kioscos",
+      "title": "Reporte Switch Kioscos",
+      "description": "Antecedentes",
       "sidebar": "tutorialSidebar"
     },
     "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT": {
@@ -277,12 +370,6 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Maxpoint/Cupones/Descargar Productos y Precios": {
-      "id": "Maxpoint/Cupones/Descargar Productos y Precios",
-      "title": "Consumo de API de Cupones",
-      "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Kioskos/Descargar Productos y Precios": {

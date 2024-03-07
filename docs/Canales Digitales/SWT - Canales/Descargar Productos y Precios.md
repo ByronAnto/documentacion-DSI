@@ -1,21 +1,54 @@
 # Consumo de API de Cupones
+## Prueba
 
 Para consumir la API de cupones, utilizamos las siguientes herramientas:
 
 - Postman
 - Redis
 
-### En el Postman se va a trabajar con el siguiente AKS:
+### En Postman se va a trabajar con el siguiente AKS:
 
+> > Citemos a Julio Cortazar
+>
+> > Los paradigmas son tan penetrantes e invisibles que se confunden fácilmente con la verdad.
+>
 
+- Elemento1
+- Elemento2
+- Elemento3
 
-Aquí se genera el JSON de cupones esto es la información que está en Azure:
+1. Elem1
+2. Elem2
+3. Elem3
+
+```
+class(Mainwindow):
+
+```
+
+***
+---
+- - -
+
+*cursiva*  
+**negrita**  
+***negrita***  
+
+[The Haunting Of Hill House](https://carlosjeguren.com/critica-la-maldicion-de-hill-house-shirley-jackson/)
+
+Resumen del libro: https://carlosjeguren.com/critica-la-maldicion-de-hill-house-shirley-jackson/
+
+`Class(MainWindow):`  
+`def __init__`
+
+![Libros](images/imagen.png)
+
+Aquí se genera el JSON de cupones, esto es la información que está en Azure:
 http://integraciones-maxpoint.kfc.com.ec/ecu/22/api/coupon/promocionesFechas
 
 - ### Configurar en Postman:
 
-
-Para extraer la información se cmabia las fechas y se genera el JSON de los cupones.
+Para extraer la información se cambia las fechas y se genera el JSON de los cupones.
 ![Postman](../../img/postman-config.png)
 
 ### Estructura de JSON de Sincronización
@@ -26,7 +59,7 @@ El JSON de sincronización tiene la siguiente estructura:
 - **Categoria promoción**: Medio en el que será visible, en este caso, AUTORAPIDO.
 - **Beneficios**: Puede ser algún descuento.
 - **Productos_requeridos**: Producto que está atado al cupón.
-- **Restaurantes**: En que tienda va ser aplicados.
+- **Restaurantes**: En que tienda van a ser aplicados.
 - **Canales**: APP
 
 ## Configuración del Cupón
@@ -82,7 +115,7 @@ El JSON de sincronización tiene la siguiente estructura:
 ```json
 "categoria_promocion": {
 "idcategoria": "9E0DB689-660A-4503-8A30-55C98EE236F1",
-"descripcion": "Autorapido",
+"descripcion": "Autorápido",
 "categoria_destacada": 0,
 "cdn_id": 10
 } 
@@ -178,15 +211,15 @@ El Redis es donde se almacena toda la información que consumió Trade con los c
 realizados. 
 
 ## ENVIO DE SYNCRONIZACION: 
-**Tenemos 4 puntos en consideración antes del envió:**
+**Tenemos 4 puntos en consideración antes del envío:**
 1. Solicitar autorización de Jaime Rodriguez y Mychael Castro
 2. Verificar que el cambio solicitado por MKT este realizado en Azure 
-3. Notificar a Trade (Bryan Medina – Chat Cupones APP) ya que luego del envió el 
+3. Notificar a Trade (Bryan Medina – Chat Cupones APP) ya que luego del envío el 
 proveedor debe consumir nuestra data.
-4. Realizar el borrado de cache de Redis con la siguiente URL desde Postaman: 
+4. Realizar el borrado de cache de Redis con la siguiente URL desde Postman: 
 http://20.75.102.76:8080/ecu/22/api/coupon/cupones/sincronizarCache
 
-Realizando este proceso se va eliminar todo lo que tenemos en Redis y se actualizara 
+Realizando este proceso se va a eliminar todo lo que tenemos en Redis y se actualizará
 con el nuevo envió.
 
 ## ARQUITECTURA DE ESTE FLUJO:

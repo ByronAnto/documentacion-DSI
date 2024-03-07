@@ -1,51 +1,51 @@
 {
-  "/documentacion-DSI/__docusaurus/debug-3cb": {
+  "/documentacion-DSI/__docusaurus/debug-a08": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/config-f9c": {
+  "/documentacion-DSI/__docusaurus/debug/config-947": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/content-370": {
+  "/documentacion-DSI/__docusaurus/debug/content-99f": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     },
     "allContent": "allContent---documentacion-dsi-docusaurus-debug-content-246-094"
   },
-  "/documentacion-DSI/__docusaurus/debug/globalData-0cc": {
+  "/documentacion-DSI/__docusaurus/debug/globalData-8ae": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/metadata-016": {
+  "/documentacion-DSI/__docusaurus/debug/metadata-81d": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/registry-4ac": {
+  "/documentacion-DSI/__docusaurus/debug/registry-161": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/routes-2b2": {
+  "/documentacion-DSI/__docusaurus/debug/routes-3ab": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-763-9ce"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
     }
   },
-  "/documentacion-DSI/blog-a74": {
+  "/documentacion-DSI/blog-567": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -64,49 +64,49 @@
     ],
     "metadata": "metadata---documentacion-dsi-blogeab-76e"
   },
-  "/documentacion-DSI/blog/archive-61c": {
+  "/documentacion-DSI/blog/archive-d56": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "archive": "archive---documentacion-dsi-blog-archive-64-c-916"
   },
-  "/documentacion-DSI/blog/first-blog-post-576": {
+  "/documentacion-DSI/blog/first-blog-post-6dc": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-first-blog-poste-27-bdf"
   },
-  "/documentacion-DSI/blog/long-blog-post-0ba": {
+  "/documentacion-DSI/blog/long-blog-post-bb8": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-long-blog-post-736-893"
   },
-  "/documentacion-DSI/blog/mdx-blog-post-250": {
+  "/documentacion-DSI/blog/mdx-blog-post-bdf": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-mdx-blog-post-593-764"
   },
-  "/documentacion-DSI/blog/tags-b67": {
+  "/documentacion-DSI/blog/tags-73b": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "tags": "tags---documentacion-dsi-blog-tags-5-a-7-dc4"
   },
-  "/documentacion-DSI/blog/tags/docusaurus-102": {
+  "/documentacion-DSI/blog/tags/docusaurus-e56": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -126,10 +126,10 @@
     "tag": "tag---documentacion-dsi-blog-tags-docusaurus-1-f-5-495",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-docusaurus-7-d-0-9de"
   },
-  "/documentacion-DSI/blog/tags/facebook-b71": {
+  "/documentacion-DSI/blog/tags/facebook-4f6": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -140,10 +140,10 @@
     "tag": "tag---documentacion-dsi-blog-tags-facebookbb-5-b9c",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-facebook-1-d-7-774"
   },
-  "/documentacion-DSI/blog/tags/hello-dab": {
+  "/documentacion-DSI/blog/tags/hello-d85": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -157,10 +157,10 @@
     "tag": "tag---documentacion-dsi-blog-tags-hello-203-6db",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hello-1-a-8-371"
   },
-  "/documentacion-DSI/blog/tags/hola-3ac": {
+  "/documentacion-DSI/blog/tags/hola-195": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -171,33 +171,69 @@
     "tag": "tag---documentacion-dsi-blog-tags-hola-9-c-8-2c8",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hola-85-d-9aa"
   },
-  "/documentacion-DSI/blog/welcome-e2e": {
+  "/documentacion-DSI/blog/welcome-dc0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-52-c-1c6"
+      "plugin": "plugin---documentacion-dsi-blog-969-33c"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-welcomed-9-f-99c"
   },
-  "/documentacion-DSI/markdown-page-cf5": {
+  "/documentacion-DSI/markdown-page-5a3": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-markdown-page-8-af-85f"
+      "plugin": "plugin---documentacion-dsi-markdown-page-05-a-6c5"
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-3af": {
+  "/documentacion-DSI/docs-c1a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docs-07-a-7f0"
+      "plugin": "plugin---documentacion-dsi-docs-1-e-3-a8e"
     }
   },
-  "/documentacion-DSI/docs-35c": {
+  "/documentacion-DSI/docs-cc9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-a0e": {
+  "/documentacion-DSI/docs-1aa": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/Cupones/Descargar Productos y Precios-457": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-cupones-descargar-productos-y-precios-487-c8b"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda-252": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-sincronizacion-sincronizacion-arandaafb-676"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda copy-fec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-sincronizacion-sincronizacion-aranda-copyb-14-67b"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios-0be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-swt-canales-descargar-productos-y-precios-0-ab-407"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos-a7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-swt-canales-ingreso-kioscos-locales-nuevos-6-ae-d74"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/SQL_Profiler-66f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-swt-canales-sql-profilerc-76-601"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch-b6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-swt-canales-switchee-6-129"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Datafast-f06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-swt-canales-switch-datafast-574-1b6"
+  },
+  "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Switch Kioscos-4c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-canales-digitales-swt-canales-switch-kioscose-6-c-31d"
   },
   "/documentacion-DSI/docs/category/cupones-06b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -227,6 +263,14 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-productos-12-eb-aa8"
   },
+  "/documentacion-DSI/docs/category/sincronización-e89": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-sincronizacion-32-b-7e4"
+  },
+  "/documentacion-DSI/docs/category/swt-canales-7a9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-swt-canales-82-e-c28"
+  },
   "/documentacion-DSI/docs/category/tutorial---basics-cbf": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-basics-171-252"
@@ -250,10 +294,6 @@
   "/documentacion-DSI/docs/intro-bc1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-intro-0-e-3-b5a"
-  },
-  "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios-008": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentacion-dsi-docs-maxpoint-cupones-descargar-productos-y-precioseee-bb7"
   },
   "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios-13b": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -303,10 +343,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-tutorial-extras-translate-your-sitee-44-61d"
   },
-  "/documentacion-DSI/-2f7": {
+  "/documentacion-DSI/-6f8": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-markdown-page-8-af-85f"
+      "plugin": "plugin---documentacion-dsi-markdown-page-05-a-6c5"
     },
     "config": "config---documentacion-dsi-5-e-9-323"
   }

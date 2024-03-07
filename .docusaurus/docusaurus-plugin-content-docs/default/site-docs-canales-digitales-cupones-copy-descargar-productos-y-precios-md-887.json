@@ -1,0 +1,24 @@
+{
+  "id": "Canales Digitales/Cupones copy/Descargar Productos y Precios",
+  "title": "Consumo de API de Cupones",
+  "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
+  "source": "@site/docs/Canales Digitales/Cupones copy/Descargar Productos y Precios.md",
+  "sourceDirName": "Canales Digitales/Cupones copy",
+  "slug": "/Canales Digitales/Cupones copy/Descargar Productos y Precios",
+  "permalink": "/documentacion-DSI/docs/Canales Digitales/Cupones copy/Descargar Productos y Precios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Cupones copy/Descargar Productos y Precios.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cupones",
+    "permalink": "/documentacion-DSI/docs/category/cupones-1"
+  },
+  "next": {
+    "title": "Sincronización",
+    "permalink": "/documentacion-DSI/docs/category/sincronización"
+  }
+}

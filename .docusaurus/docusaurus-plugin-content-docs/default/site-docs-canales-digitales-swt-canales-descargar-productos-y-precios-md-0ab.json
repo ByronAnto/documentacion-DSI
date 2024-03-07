@@ -1,0 +1,24 @@
+{
+  "id": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+  "title": "Consumo de API de Cupones",
+  "description": "Prueba",
+  "source": "@site/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios.md",
+  "sourceDirName": "Canales Digitales/SWT - Canales",
+  "slug": "/Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+  "permalink": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SWT-Canales",
+    "permalink": "/documentacion-DSI/docs/category/swt-canales"
+  },
+  "next": {
+    "title": "Ingreso De Kioscos Para Locales Nuevos",
+    "permalink": "/documentacion-DSI/docs/Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos"
+  }
+}

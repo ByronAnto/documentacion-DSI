@@ -1,0 +1,16 @@
+{
+  "title": "Integraciones",
+  "description": "Manual Manejo de DataBalance",
+  "slug": "/category/integraciones",
+  "permalink": "/documentacion-DSI/docs/category/integraciones",
+  "navigation": {
+    "previous": {
+      "title": "Consumo de API de Cupones",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Cupones/Descargar Productos y Precios"
+    },
+    "next": {
+      "title": "Manual de Manejo DataBalance",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Databalance/Manual Databalance"
+    }
+  }
+}

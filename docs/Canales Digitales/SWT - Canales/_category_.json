@@ -1,0 +1,8 @@
+{
+  "label": "SWT-Canales",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "procesos para soliciuon de eventos con reportes del SIR referentes a Canales Digitales"
+  }
+}
