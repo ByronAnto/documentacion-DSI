@@ -1,51 +1,51 @@
 {
-  "/documentacion-DSI/__docusaurus/debug-a08": {
+  "/documentacion-DSI/__docusaurus/debug-8db": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/config-947": {
+  "/documentacion-DSI/__docusaurus/debug/config-754": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/content-99f": {
+  "/documentacion-DSI/__docusaurus/debug/content-a6b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     },
     "allContent": "allContent---documentacion-dsi-docusaurus-debug-content-246-094"
   },
-  "/documentacion-DSI/__docusaurus/debug/globalData-8ae": {
+  "/documentacion-DSI/__docusaurus/debug/globalData-034": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/metadata-81d": {
+  "/documentacion-DSI/__docusaurus/debug/metadata-f50": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/registry-161": {
+  "/documentacion-DSI/__docusaurus/debug/registry-bf7": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     }
   },
-  "/documentacion-DSI/__docusaurus/debug/routes-3ab": {
+  "/documentacion-DSI/__docusaurus/debug/routes-c1d": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docusaurus-debug-90-a-aa9"
+      "plugin": "plugin---documentacion-dsi-docusaurus-debuga-4-e-00c"
     }
   },
-  "/documentacion-DSI/blog-567": {
+  "/documentacion-DSI/blog-80f": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -64,49 +64,49 @@
     ],
     "metadata": "metadata---documentacion-dsi-blogeab-76e"
   },
-  "/documentacion-DSI/blog/archive-d56": {
+  "/documentacion-DSI/blog/archive-f1d": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "archive": "archive---documentacion-dsi-blog-archive-64-c-916"
   },
-  "/documentacion-DSI/blog/first-blog-post-6dc": {
+  "/documentacion-DSI/blog/first-blog-post-d60": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-first-blog-poste-27-bdf"
   },
-  "/documentacion-DSI/blog/long-blog-post-bb8": {
+  "/documentacion-DSI/blog/long-blog-post-802": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-long-blog-post-736-893"
   },
-  "/documentacion-DSI/blog/mdx-blog-post-bdf": {
+  "/documentacion-DSI/blog/mdx-blog-post-b4b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-mdx-blog-post-593-764"
   },
-  "/documentacion-DSI/blog/tags-73b": {
+  "/documentacion-DSI/blog/tags-c29": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "tags": "tags---documentacion-dsi-blog-tags-5-a-7-dc4"
   },
-  "/documentacion-DSI/blog/tags/docusaurus-e56": {
+  "/documentacion-DSI/blog/tags/docusaurus-b8c": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -126,10 +126,10 @@
     "tag": "tag---documentacion-dsi-blog-tags-docusaurus-1-f-5-495",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-docusaurus-7-d-0-9de"
   },
-  "/documentacion-DSI/blog/tags/facebook-4f6": {
+  "/documentacion-DSI/blog/tags/facebook-fb8": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -140,10 +140,10 @@
     "tag": "tag---documentacion-dsi-blog-tags-facebookbb-5-b9c",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-facebook-1-d-7-774"
   },
-  "/documentacion-DSI/blog/tags/hello-d85": {
+  "/documentacion-DSI/blog/tags/hello-86e": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -157,10 +157,10 @@
     "tag": "tag---documentacion-dsi-blog-tags-hello-203-6db",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hello-1-a-8-371"
   },
-  "/documentacion-DSI/blog/tags/hola-195": {
+  "/documentacion-DSI/blog/tags/hola-d94": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "items": [
@@ -171,32 +171,32 @@
     "tag": "tag---documentacion-dsi-blog-tags-hola-9-c-8-2c8",
     "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hola-85-d-9aa"
   },
-  "/documentacion-DSI/blog/welcome-dc0": {
+  "/documentacion-DSI/blog/welcome-d6b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-blog-969-33c"
+      "plugin": "plugin---documentacion-dsi-blogcc-0-142"
     },
     "sidebar": "sidebar---documentacion-dsi-blog-814-700",
     "content": "content---documentacion-dsi-blog-welcomed-9-f-99c"
   },
-  "/documentacion-DSI/markdown-page-5a3": {
+  "/documentacion-DSI/markdown-page-2d3": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-markdown-page-05-a-6c5"
+      "plugin": "plugin---documentacion-dsi-markdown-page-3-bd-342"
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-c1a": {
+  "/documentacion-DSI/docs-798": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-docs-1-e-3-a8e"
+      "plugin": "plugin---documentacion-dsi-docs-246-940"
     }
   },
-  "/documentacion-DSI/docs-cc9": {
+  "/documentacion-DSI/docs-3ba": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-1aa": {
+  "/documentacion-DSI/docs-e33": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentacion-DSI/docs/Canales Digitales/Cupones/Descargar Productos y Precios-457": {
@@ -247,6 +247,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-133-d-8d1"
   },
+  "/documentacion-DSI/docs/category/integraciones-5b8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-integraciones-9-c-2-dd6"
+  },
   "/documentacion-DSI/docs/category/kioskos-e8f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-kioskos-601-09d"
@@ -294,6 +298,10 @@
   "/documentacion-DSI/docs/intro-bc1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-intro-0-e-3-b5a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Databalance/Manual Databalance-328": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-databalance-manual-databalanced-43-f2f"
   },
   "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios-13b": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -343,10 +351,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-tutorial-extras-translate-your-sitee-44-61d"
   },
-  "/documentacion-DSI/-6f8": {
+  "/documentacion-DSI/-c2c": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---documentacion-dsi-markdown-page-05-a-6c5"
+      "plugin": "plugin---documentacion-dsi-markdown-page-3-bd-342"
     },
     "config": "config---documentacion-dsi-5-e-9-323"
   }

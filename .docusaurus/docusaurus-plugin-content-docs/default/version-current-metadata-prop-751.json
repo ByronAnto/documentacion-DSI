@@ -31,6 +31,22 @@
           },
           {
             "type": "category",
+            "label": "Integraciones",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Manual de Manejo DataBalance",
+                "href": "/documentacion-DSI/docs/Maxpoint/Databalance/Manual Databalance",
+                "docId": "Maxpoint/Databalance/Manual Databalance",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/integraciones"
+          },
+          {
+            "type": "category",
             "label": "Kioskos",
             "collapsible": true,
             "collapsed": true,
@@ -370,6 +386,12 @@
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Databalance/Manual Databalance": {
+      "id": "Maxpoint/Databalance/Manual Databalance",
+      "title": "Manual de Databalance",
+      "description": "Descripción. - Este manual se utilizará como guía para la revisión de cobros, utilizando",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Kioskos/Descargar Productos y Precios": {

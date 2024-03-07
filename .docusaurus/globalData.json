@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Maxpoint/Databalance/Manual Databalance",
+              "path": "/documentacion-DSI/docs/Maxpoint/Databalance/Manual Databalance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
               "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
@@ -138,6 +143,11 @@
             {
               "id": "/category/maxpoint",
               "path": "/documentacion-DSI/docs/category/maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/integraciones",
+              "path": "/documentacion-DSI/docs/category/integraciones",
               "sidebar": "tutorialSidebar"
             },
             {
