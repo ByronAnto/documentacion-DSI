@@ -16,6 +16,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Canales Digitales/Databalance/Manual Databalance",
+              "path": "/documentacion-DSI/docs/Canales Digitales/Databalance/Manual Databalance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Canales Digitales/Kioskos/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Canales Digitales/Kioskos/Descargar Productos y Precios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Canales Digitales/Sincronizacion/sincronizacion-aranda",
               "path": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda",
               "sidebar": "tutorialSidebar"
@@ -66,23 +76,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Facturacion Electronica/Maxpoint",
-              "path": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/documentacion-DSI/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/Databalance/Manual Databalance",
-              "path": "/documentacion-DSI/docs/Maxpoint/Databalance/Manual Databalance",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
-              "path": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -146,16 +141,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/integraciones",
-              "path": "/documentacion-DSI/docs/category/integraciones",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/kioskos",
-              "path": "/documentacion-DSI/docs/category/kioskos",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/productos",
               "path": "/documentacion-DSI/docs/category/productos",
               "sidebar": "tutorialSidebar"
@@ -198,6 +183,16 @@
             {
               "id": "/category/sincronización",
               "path": "/documentacion-DSI/docs/category/sincronización",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/integraciones",
+              "path": "/documentacion-DSI/docs/category/integraciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/kioskos",
+              "path": "/documentacion-DSI/docs/category/kioskos",
               "sidebar": "tutorialSidebar"
             }
           ],

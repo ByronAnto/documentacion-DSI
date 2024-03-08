@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\github\\documentacion-DSI\\sidebars.js",
-          "contentPath": "C:\\github\\documentacion-DSI\\docs",
-          "contentPathLocalized": "C:\\github\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "c:\\github\\documentacion-DSI\\sidebars.js",
+          "contentPath": "c:\\github\\documentacion-DSI\\docs",
+          "contentPathLocalized": "c:\\github\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "Canales Digitales/Cupones/Descargar Productos y Precios",
@@ -41,6 +41,58 @@
               "next": {
                 "title": "SWT-Canales",
                 "permalink": "/documentacion-DSI/docs/category/swt-canales"
+              }
+            },
+            {
+              "id": "Canales Digitales/Databalance/Manual Databalance",
+              "title": "Manual de Databalance",
+              "description": "Descripción. - Este manual se utilizará como guía para la revisión de cobros, utilizando",
+              "source": "@site/docs/Canales Digitales/Databalance/Manual Databalance.md",
+              "sourceDirName": "Canales Digitales/Databalance",
+              "slug": "/Canales Digitales/Databalance/Manual Databalance",
+              "permalink": "/documentacion-DSI/docs/Canales Digitales/Databalance/Manual Databalance",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Databalance/Manual Databalance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Manual de Manejo DataBalance",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integraciones",
+                "permalink": "/documentacion-DSI/docs/category/integraciones"
+              },
+              "next": {
+                "title": "Kioskos",
+                "permalink": "/documentacion-DSI/docs/category/kioskos"
+              }
+            },
+            {
+              "id": "Canales Digitales/Kioskos/Descargar Productos y Precios",
+              "title": "Configuración de Políticas Kiosko",
+              "description": "Introducción - En este manual se detalla las configuraciones de las políticas que se deben configurar en el BackOffice de Max-Point para el correcto funcionamiento de Kiosko.",
+              "source": "@site/docs/Canales Digitales/Kioskos/Descargar Productos y Precios.md",
+              "sourceDirName": "Canales Digitales/Kioskos",
+              "slug": "/Canales Digitales/Kioskos/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Canales Digitales/Kioskos/Descargar Productos y Precios",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Canales Digitales/Kioskos/Descargar Productos y Precios.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Configuración de Políticas Kiosko",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kioskos",
+                "permalink": "/documentacion-DSI/docs/category/kioskos"
               }
             },
             {
@@ -88,6 +140,10 @@
               "previous": {
                 "title": "Sincronización Colombia",
                 "permalink": "/documentacion-DSI/docs/Canales Digitales/Sincronizacion/sincronizacion-aranda"
+              },
+              "next": {
+                "title": "Integraciones",
+                "permalink": "/documentacion-DSI/docs/category/integraciones"
               }
             },
             {
@@ -278,30 +334,6 @@
                 "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT"
               },
               "next": {
-                "title": "Maxpoint",
-                "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint"
-              }
-            },
-            {
-              "id": "Facturacion Electronica/Maxpoint",
-              "title": "Maxpoint",
-              "description": "first Docusaurus document!",
-              "source": "@site/docs/Facturacion Electronica/Maxpoint.md",
-              "sourceDirName": "Facturacion Electronica",
-              "slug": "/Facturacion Electronica/Maxpoint",
-              "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion Electronica/Maxpoint.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Maxpoint",
-                "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint"
-              },
-              "next": {
                 "title": "Tutorial - Extras",
                 "permalink": "/documentacion-DSI/docs/category/tutorial---extras"
               }
@@ -330,62 +362,6 @@
               }
             },
             {
-              "id": "Maxpoint/Databalance/Manual Databalance",
-              "title": "Manual de Databalance",
-              "description": "Descripción. - Este manual se utilizará como guía para la revisión de cobros, utilizando",
-              "source": "@site/docs/Maxpoint/Databalance/Manual Databalance.md",
-              "sourceDirName": "Maxpoint/Databalance",
-              "slug": "/Maxpoint/Databalance/Manual Databalance",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/Databalance/Manual Databalance",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Databalance/Manual Databalance.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_label": "Manual de Manejo DataBalance",
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Integraciones",
-                "permalink": "/documentacion-DSI/docs/category/integraciones"
-              },
-              "next": {
-                "title": "Kioskos",
-                "permalink": "/documentacion-DSI/docs/category/kioskos"
-              }
-            },
-            {
-              "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
-              "title": "Configuración de Políticas Kiosko",
-              "description": "Introducción - En este manual se detalla las configuraciones de las políticas que se deben configurar en el BackOffice de Max-Point para el correcto funcionamiento de Kiosko.",
-              "source": "@site/docs/Maxpoint/Kioskos/Descargar Productos y Precios.md",
-              "sourceDirName": "Maxpoint/Kioskos",
-              "slug": "/Maxpoint/Kioskos/Descargar Productos y Precios",
-              "permalink": "/documentacion-DSI/docs/Maxpoint/Kioskos/Descargar Productos y Precios",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Kioskos/Descargar Productos y Precios.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_label": "Configuración de Políticas Kiosko",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Kioskos",
-                "permalink": "/documentacion-DSI/docs/category/kioskos"
-              },
-              "next": {
-                "title": "Productos",
-                "permalink": "/documentacion-DSI/docs/category/productos"
-              }
-            },
-            {
               "id": "Maxpoint/Manual del Sistema Maxpoint",
               "title": "Manual del Sistema Maxpoint",
               "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
@@ -408,8 +384,8 @@
                 "permalink": "/documentacion-DSI/docs/category/maxpoint"
               },
               "next": {
-                "title": "Integraciones",
-                "permalink": "/documentacion-DSI/docs/category/integraciones"
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/category/productos"
               }
             },
             {
@@ -699,44 +675,6 @@
                   },
                   {
                     "type": "category",
-                    "label": "Integraciones",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Maxpoint/Databalance/Manual Databalance",
-                        "label": "Manual de Manejo DataBalance"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "Manual Manejo de DataBalance",
-                      "slug": "/category/integraciones",
-                      "permalink": "/documentacion-DSI/docs/category/integraciones"
-                    }
-                  },
-                  {
-                    "type": "category",
-                    "label": "Kioskos",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Maxpoint/Kioskos/Descargar Productos y Precios",
-                        "label": "Configuración de Políticas Kiosko"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
-                      "slug": "/category/kioskos",
-                      "permalink": "/documentacion-DSI/docs/category/kioskos"
-                    }
-                  },
-                  {
-                    "type": "category",
                     "label": "Productos",
                     "collapsible": true,
                     "collapsed": true,
@@ -844,10 +782,6 @@
                       "slug": "/category/facturación-electronica-1",
                       "permalink": "/documentacion-DSI/docs/category/facturación-electronica-1"
                     }
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Facturacion Electronica/Maxpoint"
                   }
                 ],
                 "link": {
@@ -960,6 +894,44 @@
                       "description": "Manuales de Sincronización",
                       "slug": "/category/sincronización",
                       "permalink": "/documentacion-DSI/docs/category/sincronización"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Integraciones",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Canales Digitales/Databalance/Manual Databalance",
+                        "label": "Manual de Manejo DataBalance"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Manual Manejo de DataBalance",
+                      "slug": "/category/integraciones",
+                      "permalink": "/documentacion-DSI/docs/category/integraciones"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Kioskos",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Canales Digitales/Kioskos/Descargar Productos y Precios",
+                        "label": "Configuración de Políticas Kiosko"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/kioskos",
+                      "permalink": "/documentacion-DSI/docs/category/kioskos"
                     }
                   }
                 ]
