@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_kfc=self.webpackChunktest_kfc||[]).push([[6981],{84365:e=>{e.exports=JSON.parse('{"permalink":"/documentacion-DSI/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

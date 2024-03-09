@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest_kfc=self.webpackChunktest_kfc||[]).push([[1290],{52378:e=>{e.exports=JSON.parse('{"permalink":"/documentacion-DSI/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
