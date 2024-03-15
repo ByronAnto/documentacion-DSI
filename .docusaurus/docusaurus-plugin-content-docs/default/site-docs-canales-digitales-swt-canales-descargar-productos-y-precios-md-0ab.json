@@ -1,7 +1,7 @@
 {
   "id": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
   "title": "Consumo de API de Cupones",
-  "description": "Prueba",
+  "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
   "source": "@site/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios.md",
   "sourceDirName": "Canales Digitales/SWT - Canales",
   "slug": "/Canales Digitales/SWT - Canales/Descargar Productos y Precios",

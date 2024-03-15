@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "KFC",
+  "tagline": "Documentación",
   "favicon": "img/favicon.ico",
   "url": "https://byronanto.github.io",
   "baseUrl": "/documentacion-DSI/",
@@ -44,17 +44,17 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Inicio",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/docusaurus.png"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Temas"
         },
         {
           "to": "/blog",
@@ -76,7 +76,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Temas",
               "to": "/docs/intro"
             }
           ]
