@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Facil de Implementar',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ¡Bienvenido/a a nuestra plataforma! Para que puedas empezar
+        a utilizar nuestros documentos de manera rápida y eficiente,
+        hemos preparado esta guía de implementación paso a paso.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Explora nuestra Plataforma',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Familiarízate con las diferentes secciones de nuestra plataforma.
+       Puedes resolver cualquier pregunta solo echándoles un vistazo.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Interfaz Intuitiva',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        El sistema de documentos presenta una interfaz clara y fácil
+        de entender, con navegación sencilla y etiquetas claras,
+        permitiendo encontrar y acceder a los documentos de manera rápida.
       </>
     ),
   },

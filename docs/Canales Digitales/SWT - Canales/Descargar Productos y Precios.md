@@ -1,47 +1,9 @@
 # Consumo de API de Cupones
-## Prueba
 
 Para consumir la API de cupones, utilizamos las siguientes herramientas:
 
 - Postman
 - Redis
-
-### En Postman se va a trabajar con el siguiente AKS:
-
-> > Citemos a Julio Cortazar
->
-> > Los paradigmas son tan penetrantes e invisibles que se confunden fácilmente con la verdad.
->
-
-- Elemento1
-- Elemento2
-- Elemento3
-
-1. Elem1
-2. Elem2
-3. Elem3
-
-```
-class(Mainwindow):
-
-```
-
-***
----
-- - -
-
-*cursiva*  
-**negrita**  
-***negrita***  
-
-[The Haunting Of Hill House](https://carlosjeguren.com/critica-la-maldicion-de-hill-house-shirley-jackson/)
-
-Resumen del libro: https://carlosjeguren.com/critica-la-maldicion-de-hill-house-shirley-jackson/
-
-`Class(MainWindow):`  
-`def __init__`
-
-![Libros](images/imagen.png)
 
 Aquí se genera el JSON de cupones, esto es la información que está en Azure:
 http://integraciones-maxpoint.kfc.com.ec/ecu/22/api/coupon/promocionesFechas

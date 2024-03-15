@@ -336,7 +336,7 @@
     "Canales Digitales/SWT - Canales/Descargar Productos y Precios": {
       "id": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
       "title": "Consumo de API de Cupones",
-      "description": "Prueba",
+      "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
       "sidebar": "tutorialSidebar"
     },
     "Canales Digitales/SWT - Canales/Ingreso Kioscos Locales_Nuevos": {

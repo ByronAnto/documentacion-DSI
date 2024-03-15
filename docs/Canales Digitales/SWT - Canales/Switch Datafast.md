@@ -5,11 +5,10 @@
    
 La información de datafast corresponde a pagos de datafono realizados por los locales, el reproceso de esta pasarela so lo puede realizar varias veces al día si fuera necesario.  
 
-**Paso 2**  
-
- Ingresamos al url de https://auditoria-sw-transaccional.azurewebsites.net/apitrade seleccionamos la opción Datafast y procedemos al reproceso.  
+**Paso 2** 
+ 
+https://auditoria-sw-transaccional.kfc.com.ec/ seleccionamos la opción Datafast y procedemos al reproceso.  
   
-
  ![Reprocess](Images/Reprocess.jpeg)  
    
 **Paso 3**  

@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "c:\\github\\documentacion-DSI\\sidebars.js",
-          "contentPath": "c:\\github\\documentacion-DSI\\docs",
-          "contentPathLocalized": "c:\\github\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\Adri\\Escritorio\\Project\\documentacion-DSI\\sidebars.js",
+          "contentPath": "D:\\Adri\\Escritorio\\Project\\documentacion-DSI\\docs",
+          "contentPathLocalized": "D:\\Adri\\Escritorio\\Project\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "Canales Digitales/Cupones/Descargar Productos y Precios",
@@ -149,7 +149,7 @@
             {
               "id": "Canales Digitales/SWT - Canales/Descargar Productos y Precios",
               "title": "Consumo de API de Cupones",
-              "description": "Prueba",
+              "description": "Para consumir la API de cupones, utilizamos las siguientes herramientas:",
               "source": "@site/docs/Canales Digitales/SWT - Canales/Descargar Productos y Precios.md",
               "sourceDirName": "Canales Digitales/SWT - Canales",
               "slug": "/Canales Digitales/SWT - Canales/Descargar Productos y Precios",
