@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_kfc=self.webpackChunktest_kfc||[]).push([[4446],{68195:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/documentacion-DSI/blog/tags/docusaurus","allTagsPath":"/documentacion-DSI/blog/tags","count":4,"unlisted":false}')}}]);
