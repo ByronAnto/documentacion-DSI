@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Canales Digitales",
         "href": "/documentacion-DSI/docs/intro",
         "docId": "intro",
         "unlisted": false
@@ -383,8 +383,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Canales Digitales",
+      "description": "Qué son",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Manual del Sistema Maxpoint": {

@@ -3,35 +3,34 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
-    title: 'Facil de Implementar',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+  {  
+    
+    title: 'MAXPOINT',
+    Svg: require('@site/static/img/Mxp.svg').default,
     description: (
       <>
-        ¡Bienvenido/a a nuestra plataforma! Para que puedas empezar
-        a utilizar nuestros documentos de manera rápida y eficiente,
-        hemos preparado esta guía de implementación paso a paso.
+        ¡Bienvenido/a: MAXPOINT es nuestro sistema de servicios
+        implementado en todos los locales a nivel nacional.
       </>
     ),
   },
   {
-    title: 'Explora nuestra Plataforma',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'CANALES DIGITALES',
+    Svg: require('@site/static/img/Cd.svg').default,
     description: (
       <>
-       Familiarízate con las diferentes secciones de nuestra plataforma.
-       Puedes resolver cualquier pregunta solo echándoles un vistazo.
+       Nos mantenemos en constante innovación y desarrollo de aplicativos
+       tecnológicos para mejorar nuestros plataformas de canales digitales.
       </>
     ),
   },
   {
-    title: 'Interfaz Intuitiva',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'SIR',
+    Svg: require('@site/static/img/SIR.svg').default,
     description: (
       <>
-        El sistema de documentos presenta una interfaz clara y fácil
-        de entender, con navegación sencilla y etiquetas claras,
-        permitiendo encontrar y acceder a los documentos de manera rápida.
+        Es el sistema Interno donde se aloja la información
+        interna de los Restauarantes: Venta, usuarios mermas.
       </>
     ),
   },

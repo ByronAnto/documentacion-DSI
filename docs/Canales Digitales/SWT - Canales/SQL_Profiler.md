@@ -21,7 +21,7 @@ Dentro de **SQL Server Management** vamos a la parte de Tools y luego damos clic
   
 ## Paso 3  
   
-Al desplegarse la nueva pantalla de Trace Properties vamos hasta **Events Selection** y escogemos los dos ítems: **Show all events y Show all columns** luego contiuamos por Column Filters:  
+Al desplegarse la nueva pantalla de **Trace Properties** vamos hasta **Events Selection** y escogemos los dos ítems: **Show all events y Show all columns** luego escogemos el ítem de **Column Filters:**  
   
 ![Show](SQL/Show.jpeg) 
 
@@ -33,7 +33,7 @@ Dentro de **Column Filters** ingresamos las siguientes líneas en like para filt
   
 ![Error](SQL/Like2.jpeg)  
   
-En **Errors and Warnings** selccionamos los siguientes ítems:  
+En **Errors and Warnings** seleccionamos los siguientes ítems:  
 
 ![Error](SQL/Error_Warn.jpeg)
   
@@ -45,7 +45,7 @@ En **Store Procedures** seleccionamos los siguientes ítems:
   
 ![StP](SQL/Stp2.jpeg)  
 
-En TSQL seleccionamos los siguientes ítems:  
+En **TSQL** seleccionamos los siguientes ítems:  
   
 ![Tsql](SQL/Tsql.jpeg)  
   

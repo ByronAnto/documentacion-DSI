@@ -340,8 +340,8 @@
             },
             {
               "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Canales Digitales",
+              "description": "Qué son",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
