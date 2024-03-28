@@ -1,0 +1,599 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.1.0">
+<title data-rh="true">Manual del sistema Maxpoint (BACKEND) ver 2. | KFC</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://byronanto.github.io/documentacion-DSI/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://byronanto.github.io/documentacion-DSI/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://byronanto.github.io/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Manual del sistema Maxpoint (BACKEND) ver 2. | KFC"><meta data-rh="true" name="description" content="1.	Productos"><meta data-rh="true" property="og:description" content="1.	Productos"><link data-rh="true" rel="icon" href="/documentacion-DSI/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://byronanto.github.io/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2"><link data-rh="true" rel="alternate" href="https://byronanto.github.io/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2" hreflang="en"><link data-rh="true" rel="alternate" href="https://byronanto.github.io/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/documentacion-DSI/blog/rss.xml" title="KFC RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/documentacion-DSI/blog/atom.xml" title="KFC Atom Feed"><link rel="stylesheet" href="/documentacion-DSI/assets/css/styles.2d1ad991.css">
+<script src="/documentacion-DSI/assets/js/runtime~main.bdfa1eaa.js" defer="defer"></script>
+<script src="/documentacion-DSI/assets/js/main.86d7e779.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return localStorage.getItem("theme")}catch(t){}}();t(null!==e?e:"light")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/documentacion-DSI/"><div class="navbar__logo"><img src="/documentacion-DSI/img/docusaurus.png" alt="My Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/documentacion-DSI/img/docusaurus.png" alt="My Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Inicio</b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/documentacion-DSI/docs/intro">Temas</a><a class="navbar__item navbar__link" href="/documentacion-DSI/blog">Blog</a></div><div class="navbar__items navbar__items--right"><a href="https://github.com/facebook/docusaurus" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="Switch between dark and light mode (currently light mode)" aria-label="Switch between dark and light mode (currently light mode)" aria-live="polite"><svg viewBox="0 0 24 24" width="24" height="24" class="lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" class="darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/documentacion-DSI/docs/intro">Canales Digitales</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" aria-expanded="true" href="/documentacion-DSI/docs/category/maxpoint">Maxpoint</a><button aria-label="Collapse sidebar category &#x27;Maxpoint&#x27;" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint">Manual del Sistema Maxpoint</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" aria-expanded="true" tabindex="0" href="/documentacion-DSI/docs/category/productos">Productos</a><button aria-label="Collapse sidebar category &#x27;Productos&#x27;" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Descargar Productos y Precios">Productos</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/administracion-de-periodos">Administracion de Periodos</a><button aria-label="Expand sidebar category &#x27;Administracion de Periodos&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Agregadores_Uber/AGREGADORES">Agregadores_Uber</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Cambio Estados por Medio/Cambio Estados Medio">Cambio Estados por Medio</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156">Configuracion de politicas mxp v 1.9.15.6</a><button aria-label="Expand sidebar category &#x27;Configuracion de politicas mxp v 1.9.15.6&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/manual-de-configuraciones_domicilio">Manual de Configuraciones_Domicilio</a><button aria-label="Expand sidebar category &#x27;Manual de Configuraciones_Domicilio&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/dark-kitchen">DARK Kitchen</a><button aria-label="Expand sidebar category &#x27;DARK Kitchen&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/DUNA">DUNA</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/descuentos">Descuentos</a><button aria-label="Expand sidebar category &#x27;Descuentos&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/encuestas">Encuestas</a><button aria-label="Expand sidebar category &#x27;Encuestas&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/fidelizacion">Fidelizacion</a><button aria-label="Expand sidebar category &#x27;Fidelizacion&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Formas de Pago">Formas de Pago</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Go_Trade/Manual - URL Go Trade">Go_Trade</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/kds">KDS</a><button aria-label="Expand sidebar category &#x27;KDS&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/mxp-v19155">MXP v1.9.15.5</a><button aria-label="Expand sidebar category &#x27;MXP v1.9.15.5&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/medio">Medio</a><button aria-label="Expand sidebar category &#x27;Medio&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Mercadito/Manual de Configuracion Mercadito">Mercadito</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Movistar/Manual de KFC Cupones Movistar">Movistar</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/NETCORE/Manual Configuracion Politicas Servicio API Impresion">NETCORE</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/pickup">PICKUP</a><button aria-label="Expand sidebar category &#x27;PICKUP&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/plu_mxp">PLU_MXP</a><button aria-label="Expand sidebar category &#x27;PLU_MXP&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Parte Validacion Email MXP/Parte validacion email">Parte Validacion Email MXP</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Piloto/Manual Politicas Separacion de Presas">Piloto</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Precios O/Precios de Fantasia/Manual de Configuracion de Precio de Fantasia">Precios O</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Preguntas Forzadas Agregadores/Manual de Menu y Preguntas Sugeridas">Preguntas Forzadas Agregadores</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/sistema-garante">SISTEMA GARANTE</a><button aria-label="Expand sidebar category &#x27;SISTEMA GARANTE&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/tienda-padre-por-banda-de-precios">TIENDA PADRE POR BANDA DE PRECIOS</a><button aria-label="Expand sidebar category &#x27;TIENDA PADRE POR BANDA DE PRECIOS&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Tipo de Venta/Manual Tipo de Venta">Tipo de Venta</a></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" aria-expanded="true" tabindex="0" href="/documentacion-DSI/docs/category/usuario">Usuario</a><button aria-label="Collapse sidebar category &#x27;Usuario&#x27;" type="button" class="clean-btn menu__caret"></button></div><ul style="display:block;overflow:visible;height:auto" class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual Configuracion Politicas Usuarios Tipo Canal">Manual - Configuración Políticas Usuarios Tipo Canal.</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual de Usuario Politica Concurrencia Menu">Manual de Usuario Politica Concurrencia Menu.</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del POS">Manual del sistema MaxPoint (POS) ver 2</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2">Manual del sistema Maxpoint (BACKEND) ver 2.</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/productos-1">Productos</a><button aria-label="Expand sidebar category &#x27;Productos&#x27;" type="button" class="clean-btn menu__caret"></button></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/restaurantes">Restaurantes</a><button aria-label="Expand sidebar category &#x27;Restaurantes&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" tabindex="0" href="/documentacion-DSI/docs/category/kioskos">Kioskos</a><button aria-label="Expand sidebar category &#x27;Kioskos&#x27;" type="button" class="clean-btn menu__caret"></button></div></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" href="/documentacion-DSI/docs/category/tutorial---basics">Tutorial - Basics</a><button aria-label="Expand sidebar category &#x27;Tutorial - Basics&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" href="/documentacion-DSI/docs/category/facturación-electronica">Facturación Electronica</a><button aria-label="Expand sidebar category &#x27;Facturación Electronica&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" aria-expanded="false" href="/documentacion-DSI/docs/category/tutorial---extras">Tutorial - Extras</a><button aria-label="Expand sidebar category &#x27;Tutorial - Extras&#x27;" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret" aria-expanded="false" href="/documentacion-DSI/docs/category/cupones">Canales Digitales</a></div></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/documentacion-DSI/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item"><a class="breadcrumbs__link" itemprop="item" href="/documentacion-DSI/docs/category/maxpoint"><span itemprop="name">Maxpoint</span></a><meta itemprop="position" content="1"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item"><a class="breadcrumbs__link" itemprop="item" href="/documentacion-DSI/docs/category/productos"><span itemprop="name">Productos</span></a><meta itemprop="position" content="2"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item"><a class="breadcrumbs__link" itemprop="item" href="/documentacion-DSI/docs/category/usuario"><span itemprop="name">Usuario</span></a><meta itemprop="position" content="3"></li><li itemscope="" itemprop="itemListElement" itemtype="https://schema.org/ListItem" class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link" itemprop="name">Manual del sistema Maxpoint (BACKEND) ver 2.</span><meta itemprop="position" content="4"></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><h1>Manual del sistema Maxpoint (BACKEND) ver 2.</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1productos">1.	Productos<a href="#1productos" class="hash-link" aria-label="Direct link to 1.	Productos" title="Direct link to 1.	Productos">​</a></h2>
+<p><strong>1.1	Pantalla de Productos</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Productos
+Dar doble clic para editar el nombre del Plus (Campos).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.1 Productos Nevado" src="/documentacion-DSI/assets/images/Maxpiont 1.1 Productos Nevado-00387a9845a03bbaeb5c123fdf672d12.png" width="927" height="458" class="img_ev3q"></p>
+<p>En la pestaña de “Configuración de Botón” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.1 Configuracion Boton Nevado" src="/documentacion-DSI/assets/images/Maxpiont 1.1 Configuracion Boton Nevado-0910a7283f9e73a543ce5fdb3657271b.png" width="814" height="537" class="img_ev3q"></p>
+<p><strong>Visualización del Botón:</strong> Es una imagen de botón.</p>
+<p><strong>Stock?:</strong> Clic cambio Si hay stock y luego ingrese el numero si tienes stock.</p>
+<p><strong>Tiempo de Preparación (min):</strong> Ingreso el número de tiempo de preparación.</p>
+<p><strong>Tipo de Producto:</strong> Encoje los 2 tipos MODIFICADOR y PRODUCTO.</p>
+<p><strong>Tipo de Plato:</strong> Encoje los 3 tipos Entrada, Fuerte y Postre.</p>
+<p><strong>Impuesto:</strong> Encoje los 2 tipos de 0% IVA o 14% IVA. Para indicar que el PVP ya incluye el IVA, por lo que se calcula y se resta el impuesto sobre el precio total.</p>
+<p><strong>Canal de impresión:</strong> encoje los 3 tipos facturas, voucher y línea para imprimir.</p>
+<p><strong>Master Plus:</strong> Encoje que tipo de producto.</p>
+<p><strong>Código de barras:</strong> número de código de barras de producto.</p>
+<p><strong>Nivel de Seguridad:</strong> Encoje los 2 tipos Administrador o Auditor.</p>
+<p><strong>Requiere autorización para anulación?:</strong> Encoje los 2 tipos Si o No.</p>
+<p><strong>Es producto al peso?:</strong> Encoje los 2 tipos Si o No. Indicar si el restaurante cuenta con productos vendidos al peso.</p>
+<p><strong>Se muestra en el display de cocina?:</strong> Encoje los 2 tipos Si o No.</p>
+<p>En la pestaña de “Configuración de Preguntas” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.1 Configuracion Boton Preguntas Sugeridas" src="/documentacion-DSI/assets/images/Maxpiont 1.1 Configuracion Boton Preguntas Sugeridas-369ce318cb0eade87afbbb0046994aac.png" width="842" height="478" class="img_ev3q"></p>
+<p><strong>Buscar:</strong> Escriba la palabra o preguntas a buscar</p>
+<p>✅ Clic para agregar en preguntas sugeridas</p>
+<p>❌ Clic para quitar en preguntas sugeridas</p>
+<p>En la pestaña de “Recetas” se muestra la siguiente pantalla:</p>
+<p>Para listados de recetas y precios.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.1 Recetas" src="/documentacion-DSI/assets/images/Maxpiont 1.1 Recetas-d97812c96ece8661dcde15db6c1c8cb1.png" width="866" height="572" class="img_ev3q"></p>
+<p>Categoría de Precio: Encoge el tipo de categoría de precio.</p>
+<p>Restaurante: Encoge la tienda o restaurante.</p>
+<p>Recetas por Ubicación: Encoge el tipo de ubicación y automática listado las recetas y precios.</p>
+<p><strong>1.2	Preguntas Sugeridas</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Preguntas Sugeridas.
+Dar doble clic para editar preguntas sugeridas (campos).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.2 Preguntas Sugeridas Clic Campos" src="/documentacion-DSI/assets/images/Maxpiont 1.2 Preguntas Sugeridas Clic Campos-5dfca8584368671fa84ae0181eb6751a.png" width="834" height="432" class="img_ev3q"></p>
+<p>En la pestaña de “Pregunta Sugerida” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.2 Preguntas Sugeridas Mostrar" src="/documentacion-DSI/assets/images/Maxpiont 1.2 Preguntas Sugeridas Mostrar-b8ef7777c3af030a3e914f21a73a8f0c.png" width="605" height="438" class="img_ev3q"></p>
+<p><strong>Activo:</strong> Encoge los 2 tipos Si y No.</p>
+<p><strong>Descripción pregunta:</strong> Para ingresar el nombre del producto.</p>
+<p><strong>Descripción pregunta en POS:</strong> Para ingresar la pregunta.</p>
+<p><strong>Cantidad mínima de respuestas:</strong> Encoge el número mínimo de respuestas</p>
+<p><strong>Cantidad máxima de respuestas:</strong> Encoge el número máximo de respuestas</p>
+<p>En la pestaña de “Respuesta” se muestra la siguiente pantalla:</p>
+<p>Para la respuesta de opciones de producto.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.2 Preguntas Sugeridas Respuesta" src="/documentacion-DSI/assets/images/Maxpiont 1.2 Preguntas Sugeridas Respuesta-714054fa24085ef98da9b69f0e4d87ba.png" width="496" height="437" class="img_ev3q"></p>
+<p>Clic icono ❌  para eliminar las respuestas.</p>
+<p>Clic botón  <strong>Agregar Respuesta</strong> para agregar las respuestas.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.2 Agregar Respuesta Todos" src="/documentacion-DSI/assets/images/Maxpiont 1.2 Agregar Respuesta Todos-4ae3a3070cee7dcb2a11320240873b4d.png" width="608" height="265" class="img_ev3q"></p>
+<p>Escoge o selecciona los productos y luego el botón Aceptar.</p>
+<p>En la pestaña de “Plus Asociados a Pregunta” se muestra la siguiente pantalla:</p>
+<p>Son Asociados a Pregunta.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.2 Mezcla Nevado Pus Asociados Pregruntas" src="/documentacion-DSI/assets/images/Maxpiont 1.2 Mezcla Nevado Pus Asociados Pregruntas-48572af0f30021752dacc41fc538596c.png" width="524" height="431" class="img_ev3q"></p>
+<p><strong>1.3	Administracion Precios</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Administración Precios.</p>
+<p>El listado de históricos de la administración, fecha creación, aplicación y categoría.
+En la pestaña de “Programación de Precios” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.3 Administracion Precios Programacion Precios" src="/documentacion-DSI/assets/images/Maxpiont 1.3 Administracion Precios Programacion Precios-15e4c66149f5598027407466ccd80fe6.png" width="911" height="452" class="img_ev3q"></p>
+<p>En la pestaña de “Configuración Precios”.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.3 Configuracion Precios" src="/documentacion-DSI/assets/images/Maxpiont 1.3 Configuracion Precios-cfcecf0fd07f6cc972933d1882862a71.png" width="781" height="411" class="img_ev3q"></p>
+<p>Seleccionar una Categoría (Checkbox) en Abreviatura Categoria y luego botón Siguiente== &gt;, Seleccionar los productos y luego botón Siguiente == &gt;  e ingresa la fecha de aplicación y hora. Y botón finalizar.</p>
+<p><strong>1.4	Página De Menú</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Pagina de Menú.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.4 Pantalla Principal Pagina Menu" src="/documentacion-DSI/assets/images/Maxpiont 1.4 Pantalla Principal Pagina Menu-2bff8428190340181e8ecc15a4cd2b0b.png" width="808" height="456" class="img_ev3q"></p>
+<p>Dar doble clic para editar en Nombre Menú (campo).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.4 JUAN VALDEZ Campo" src="/documentacion-DSI/assets/images/Maxpiont 1.4 JUAN VALDEZ Campo-92ce9c8daa0eb9c780194f86835f33a0.png" width="553" height="307" class="img_ev3q"></p>
+<p><strong>Nombre Menú:</strong> Nombre de Menú</p>
+<p><strong>Nombre en MaxPOINT:</strong> Nombre en MaxPoint</p>
+<p><strong>Clasificación:</strong> Encoje los 4 tipos SALON, LLEVAR, DOMICILIO y DRIVE.</p>
+<p><strong>1.5	Categoria</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Categoría.</p>
+<p>Para el listado los botones para encoger los alimentos y otros</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.5 Listado Botones Encoger Alimentos Otros" src="/documentacion-DSI/assets/images/Maxpiont 1.5 Listado Botones Encoger Alimentos Otros-48ac6791babdffc3ae7f84eae3be5cd0.png" width="840" height="417" class="img_ev3q"></p>
+<p>Dar doble clic para editar El Nombre (campo).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.5 Adiciones Licores Saborizantes" src="/documentacion-DSI/assets/images/Maxpiont 1.5 Adiciones Licores Saborizantes-e1fe8fdc8e3d4f4fbe595d01ef4301a9.png" width="550" height="357" class="img_ev3q"></p>
+<p><strong>Nombre:</strong> Descripción de Productos</p>
+<p><strong>Color de Texto:</strong> El color de texto en botón</p>
+<p><strong>Color de Fondo:</strong> El color de fondo en botón</p>
+<p><strong>Como se visualiza:</strong> El resultado para el botón</p>
+<p><strong>1.6	Botones</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Botones</p>
+<p>El listado los sub-categoría (como plus) para encoger los alimentos, bebidas y otros.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.6 Botones Sub Categoria Plus" src="/documentacion-DSI/assets/images/Maxpiont 1.6 Botones Sub Categoria Plus-02dfe043687c10a87900569f2606b8bd.png" width="911" height="453" class="img_ev3q"></p>
+<p>En la pestaña de “Botón” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.6 Boton Whisky" src="/documentacion-DSI/assets/images/Maxpiont 1.6 Boton Whisky-62d4e41c91799c707e010812dbd2d350.png" width="748" height="364" class="img_ev3q"></p>
+<p><strong>Nombre del Producto:</strong> el nombre del producto</p>
+<p><strong>Nombre del Botón:</strong> el nombre del botón</p>
+<p><strong>Impresión en Factura:</strong> el nombre de producto para el imprimir en factura</p>
+<p><strong>Color de Texto:</strong> El color de texto en botón</p>
+<p><strong>Color de Fondo:</strong> El color de fondo en botón</p>
+<p><strong>Periodo de Validez:</strong> Ingrese la fecha de inicio y fecha de fin</p>
+<p><strong>1.7	 Menu</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Menú.</p>
+<p>Encoje el restaurante  <strong>---Seleccione Menú---</strong>  y carga aparecen los botones (categorías) en la parte inferior, así como los productos de la categoría seleccionada en la parte superior (plus). Para visualizar la pantalla principal  “Orden Pedido” y también mover los botones.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpiont 1.7 Administracion Menus JUAN VALDEZ" src="/documentacion-DSI/assets/images/Maxpiont 1.7 Administracion Menus JUAN VALDEZ-b06a41f73cd9a171f7e7ad291fab51fe.png" width="933" height="461" class="img_ev3q"></p>
+<p><strong>1.8	Categorías de precios</strong></p>
+<p>Desde la pantalla principal, ingresar a Productos &gt; Categorías de precios</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 1.8 Categorias Precios General" src="/documentacion-DSI/assets/images/Maxpoint 1.8 Categorias Precios General-1ed5c317d740a3370cc64584a39bff68.png" width="858" height="425" class="img_ev3q"></p>
+<p>Dar doble clic para editar Descripción (campo).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 1.8 General JUAN VALDEZ" src="/documentacion-DSI/assets/images/Maxpoint 1.8 General JUAN VALDEZ-9ba4617df8d472bd8746b32ee14ee8d9.png" width="661" height="478" class="img_ev3q"></p>
+<p><strong>Descripción:</strong> Nombre de Descripción.</p>
+<p><strong>Abreviatura:</strong> Es un tipo de abreviación.</p>
+<p><strong>Nivel:</strong> Es número de nivel.</p>
+<p><strong>Integración:</strong> Ingrese el número de integración.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2restaurante">2.	Restaurante<a href="#2restaurante" class="hash-link" aria-label="Direct link to 2.	Restaurante" title="Direct link to 2.	Restaurante">​</a></h2>
+<p><strong>2.1  Pantalla de Restaurante</strong></p>
+<p>Desde la pantalla principal, ingresar a Restaurante &gt;Restaurante</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 Pantalla Restaurante" src="/documentacion-DSI/assets/images/Maxpoint 2.1 Pantalla Restaurante-7106e5b5e340456c8fd57cfdc4968197.png" width="863" height="416" class="img_ev3q"></p>
+<p>Los restaurantes se mostrarán en pantalla.</p>
+<p>Dar doble clic para editar la Descripción Restaurante (campos)
+En la pestaña de “Sistema Gerente Web” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN-8419197dccb3dd36eb4e912aa63a723e.png" width="919" height="407" class="img_ev3q"></p>
+<p><strong>CATEGORIA DE PRECIOS:</strong> Seleccionar la categoría de precios.</p>
+<p><strong>CIUDAD:</strong> Nombre de la ciudad.</p>
+<p><strong>TIPO DE SERVICIO:</strong> el tipo de servicio del restaurante.</p>
+<p><strong>MID:</strong> el cuál es el número de identificación del comercio, el cual es proporcionado por los emisores de tarjeta de crédito para el restaurante.</p>
+<p>En la pestaña de “Información Fiscal” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN Informacion Fiscal" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN Informacion Fiscal-0842cdda0768377caa1560f4b284a028.png" width="965" height="441" class="img_ev3q"></p>
+<p><strong>Dirección:</strong> Ingresar la dirección (provincia/cantón/dirección).</p>
+<p><strong>Teléfono:</strong> El teléfono del restaurante.</p>
+<p><strong>Método de Impuesto:</strong></p>
+<p>Seleccionar el método de cálculo de impuestos. Existen 4 opciones:</p>
+<ul>
+<li>
+<p>Incluido, el cual indica que el PVP ya incluye el IVA, por lo que se calcula y se resta el impuesto sobre el precio total.</p>
+</li>
+<li>
+<p>Excluido, el cual indica que el PVP no incluye el IVA, por lo que se calcula y se añade el impuesto sobre el precio indicado.</p>
+</li>
+<li>
+<p>Diferenciado incluido, el cual indica que el PVP ya incluye el IVA, pero permite trabajar con 2 o más impuestos.</p>
+</li>
+<li>
+<p>Diferenciado excluido, el cual indica que el PVP no incluye el IVA, pero permite trabajar con 2 o más impuestos.</p>
+</li>
+</ul>
+<p>Según el método de cálculo de impuestos, seleccionar uno o más impuestos que se aplican en el restaurante.</p>
+<p><strong>Tipo de Facturación:</strong> Seleccionar PLAN MARKET como tipo de facturación, el cual se refiere a facturación electrónica.</p>
+<p><strong>Número de Serie y Punto de Emisión:</strong> Ingresar el número de serie y el punto de emisión, los cuales son proporcionados por contabilidad.</p>
+<p>En la pestaña de “MaxPoint” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN Maxpoint" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN Maxpoint-2612e43f14d63c693adaa4d7bc7a1547.png" width="963" height="410" class="img_ev3q"></p>
+<p><strong>Tiempo de anulación:</strong> el cual indica la cantidad de minutos que pueden transcurrir desde que se seleccionó un producto en la orden para poder borrarlo sin la necesidad de tener que ingresar credenciales de administrador.</p>
+<p><strong>Cancelar pago:</strong> Indicar si se permite cancelar una forma de pago sin la necesidad de ingresar credenciales de administrador.</p>
+<p><strong>Abrir Cajón (Final Transacción):</strong> Indicar si el cajón debe abrirse al final de cada transacción.</p>
+<p><strong>Atención 24 Horas:</strong> Indicar si la atención del restaurante es 24 horas, lo cual va a permitir abrir períodos en el mismo día.</p>
+<p><strong>Solicitar Número de Personas:</strong> Indicar si el sistema debe solicitar el número de personas que se está atendiendo en la orden (en el caso de restaurantes con mesas y full service).</p>
+<p><strong>Producto al Peso (gramos):</strong> Indicar si el restaurante cuenta con productos vendidos al peso.</p>
+<p>En la pestaña de “Pisos y Áreas” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN Pisos y Areas" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN Pisos y Areas-32b7649b543dbea9b8ee90982459f167.png" width="964" height="430" class="img_ev3q"></p>
+<p><strong>Agregar Piso:</strong> Agrega los pisos del restaurante (por lo menos un piso activo).</p>
+<p><strong>Piso #:</strong> Dentro de cada piso, agregar las áreas existentes (por lo menos un área activa por piso). Para 	cada área puedes ingresarse una descripción y una imagen.</p>
+<p>En la pestaña de “Autoimpresores” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN Autoimpresores" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN Autoimpresores-b9370a57bfc00e739488ddcf9d75b78d.png" width="824" height="328" class="img_ev3q"></p>
+<p>El nombre y el RUC de la empresa se muestran en pantalla.</p>
+<p>En la pestaña de “Políticas de Configuración” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN Politicas de Configuracion" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN Politicas de Configuracion-1e0f32882069b8988fa6ff40183d7764.png" width="931" height="484" class="img_ev3q"></p>
+<p>Las políticas de configuración se muestran en pantalla.</p>
+<p>Es importante tener realizadas las siguientes configuraciones:</p>
+<ul>
+<li>
+<p>Horarios de atención por días</p>
+</li>
+<li>
+<p>Servidor para URL de impresión, con su IP respectiva</p>
+</li>
+<li>
+<p>Apagar estación, con valor “SI”</p>
+</li>
+<li>
+<p>Imprimir orden de perdido, con valor “SI”</p>
+</li>
+</ul>
+<p>En la pestaña de “Archivos de Impresión” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 V001 JARDIN Archivos de Impresion" src="/documentacion-DSI/assets/images/Maxpoint 2.1 V001 JARDIN Archivos de Impresion-1ee62e36a357f89f7ed57d96baead0a4.png" width="892" height="282" class="img_ev3q"></p>
+<p><strong>Factura, Voucher y Linea:</strong> A cada canal se deben asignar los archivos de impresión correspondientes (por los menos uno por canal).</p>
+<p><strong>2.1	Mesas</strong></p>
+<p>Desde la pantalla principal, ingresar a Restaurante &gt; Mesas.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 Mesas" src="/documentacion-DSI/assets/images/Maxpoint 2.1 Mesas-d33170516bd7732168068cfb1689c0a3.png" width="960" height="478" class="img_ev3q"></p>
+<p><strong>Restaurante:</strong> El nombre del restaurante se ingresará automáticamente</p>
+<p><strong>Piso:</strong> Encoge el número de piso</p>
+<p><strong>Area:</strong> Tipo de Área  (Area1, Area2, Principal o Hall).</p>
+<p>En la pestaña de “Ubicación” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 Mesas Mesa 1" src="/documentacion-DSI/assets/images/Maxpoint 2.1 Mesas Mesa 1-0b8c9473217a732e29d5ff12332f90b5.png" width="708" height="432" class="img_ev3q"></p>
+<p><strong>Valor X:</strong> el número de coordenada X de área.</p>
+<p><strong>Valor Y:</strong> el número de coordenada Y de área.</p>
+<p>El imagen una Mesa #  <strong>MESA 1</strong> puedes mueve una mesa, haz un presionar clic y luego mantener donde puedes cambiar los puestos.</p>
+<p>En la pestaña de “Mesas” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 Mesas Mesa 1 Verde" src="/documentacion-DSI/assets/images/Maxpoint 2.1 Mesas Mesa 1 Verde-3d71c1d5bf1b995b375b990caaa11660.png" width="947" height="476" class="img_ev3q"></p>
+<p>Dar doble clic para editar la Mesa (campo).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.1 Modificar" src="/documentacion-DSI/assets/images/Maxpoint 2.1 Modificar-c8c32b612c6fcf7cdb183696a00857ca.png" width="597" height="274" class="img_ev3q"></p>
+<p><strong>Mesa:</strong> Nombre de Mesa</p>
+<p><strong>Tipo:</strong> cuantas personas en la mesa 2 tipos: 4 personas o 2 personas.</p>
+<p><strong>2.2	Estación</strong></p>
+<p>Desde la pantalla principal, ingresar a Restaurante &gt; Estacion.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.2 Estacion" src="/documentacion-DSI/assets/images/Maxpoint 2.2 Estacion-7a78951f12310483719b9d52e3447eea.png" width="900" height="433" class="img_ev3q"></p>
+<p>Seleccionar el restaurante que se desea configurar. Las estaciones existentes aparecerán en pantalla.
+Para agregar una nueva estación, presionar el botón “Nuevo” ubicado en la parte superior.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.2 Ingre Nueva Estacion 668" src="/documentacion-DSI/assets/images/Maxpoint 2.2 Ingre Nueva Estacion 668-684b5f027511372d5ad5a3c30248acd8.png" width="699" height="588" class="img_ev3q"></p>
+<p><strong>Restaurante:</strong> El nombre del restaurante se ingresará automáticamente.</p>
+<p><strong>Ingrese IP:</strong> Ingresar la IP de la caja.</p>
+<p><strong>Nombre Estación:</strong> Seleccionar el número del nombre de la estación,</p>
+<p><strong>Seleccione Menú:</strong> Seleccionar el menú.</p>
+<p><strong>Medios Autorizadores:</strong> los medios autorizadores los 3 tipos (banda, datafast y pinpad).</p>
+<p><strong>TID (Tarjeta de Crédito):</strong> Ingresar el Terminal ID (TID), el cual es el número de identificación de la tarjeta, el cual es proporcionado por el switch transaccional.</p>
+<p><strong>Desasignación:</strong> Seleccionar la desasignación en punto de venta.</p>
+<p><strong>Punto Emisión:</strong> Ingresar el punto de emisión de la estación, el cual es proporcionado por contabilidad.</p>
+<p><strong>Pago Predeterminado:</strong> Seleccionar la forma de pago predeterminado en efectivo.</p>
+<p><strong>Seleccione Mesa:</strong> Seleccionar la mesa.</p>
+<p>Presionar el botón “Aceptar” para crear la estación.
+Ir a la pestaña de “Impresión”.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.2 Estacion 010" src="/documentacion-DSI/assets/images/Maxpoint 2.2 Estacion 010-44bef100a4c2c042e7f474c3a9c52aa0.png" width="902" height="589" class="img_ev3q"></p>
+<p>Seleccionar en “Impresora” la impresora que se acaba de crear a Factura, Línea y Voucher.</p>
+<p>Ir a la pestaña de “Políticas de Configuración”.</p>
+<p>Las políticas de configuración se mostrarán en pantalla.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.2 Estacion 010 Politicas Configuracion" src="/documentacion-DSI/assets/images/Maxpoint 2.2 Estacion 010 Politicas Configuracion-7b996dae149e3962f337bed48f9e5297.png" width="861" height="412" class="img_ev3q"></p>
+<p><strong>2.3	Impresora</strong></p>
+<p>Desde la pantalla principal, ingresar a Restaurante &gt; Impresora</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.3 Restaurante Impresora" src="/documentacion-DSI/assets/images/Maxpoint 2.3 Restaurante Impresora-d78321bb3bcc6b3742b410a23678fc98.png" width="795" height="386" class="img_ev3q"></p>
+<p>Seleccionar el restaurante que se desea configurar. Las configuraciones de impresoras existentes
+aparecerán en pantalla.</p>
+<p>Para agregar una nueva impresora, presionar el botón “Nuevo” ubicado en la parte superior.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.3 Nueva Impresora" src="/documentacion-DSI/assets/images/Maxpoint 2.3 Nueva Impresora-684b37f01e8da4be49259ecaa8cb6007.png" width="591" height="449" class="img_ev3q"></p>
+<p><strong>Restaurante:</strong> El nombre del restaurante se ingresará automáticamente.</p>
+<p><strong>Ingrese Nombre:</strong> el nombre de la impresora.  Este debe ir entre comillas dobles, y tener el mismo nombre de la caja (por ejemplo, si es para la caja01, el nombre deberá ser “caja1”).</p>
+<p><strong>Ingrese Descripción:</strong> descripción de la impresora, la cual debe ser igual que el nombre de la impresora (tomando en cuenta las comillas).</p>
+<p><strong>Seleccione Tipo de Impresora:</strong> como BEMATECH TERM.</p>
+<p><strong>Seleccione Estación a la que se conecta:</strong> la estación que se acaba de crear como la estación a la que se conecta la impresora.</p>
+<p>Presionar el botón “Aceptar” para crear la impresora.</p>
+<p>Volver a ingresar a Restaurante &gt; Estación.</p>
+<p>Seleccionar el restaurante correspondiente, y dar doble clic a la caja que se está configurando. </p>
+<p><strong>2.4	Tipo de Facturación</strong></p>
+<p>Desde la pantalla principal, ingresar a Restaurante &gt; Tipo De Facturación:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.4 Tipo De Facturacion Verde" src="/documentacion-DSI/assets/images/Maxpoint 2.4 Tipo De Facturacion Verde-33aaa1064398be3d7cc968b41549fd51.png" width="867" height="423" class="img_ev3q"></p>
+<p>Dar doble clic para editar el Tipo Facturación (campos).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.4 Contingencia" src="/documentacion-DSI/assets/images/Maxpoint 2.4 Contingencia-da7abba42e175df5dc0c2d7bc679ca13.png" width="660" height="313" class="img_ev3q"></p>
+<p><strong>Tipo de Facturación:</strong> Descripción de tipo de facturación</p>
+<p><strong>URL de Impresión:</strong> Para ubicar de manera en un servidor, cualquier recursos una página web o php. Para impresión de factura.</p>
+<p><strong>2.5	Configuración de Cupones:</strong></p>
+<p>Desde la pantalla principal, ingresar a Restaurante &gt; Configuración de Cupones</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.5 Cupones" src="/documentacion-DSI/assets/images/Maxpoint 2.5 Cupones-4390b60978693c476670bc4d14523188.png" width="844" height="407" class="img_ev3q"></p>
+<p>Dar doble clic para editar Promoción (campo).</p>
+<p>En la pestaña de “Detalle” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 2.5 Promocion Limonada" src="/documentacion-DSI/assets/images/Maxpoint 2.5 Promocion Limonada-e528ca00e88d8b71e2f78e2cd0ca250a.png" width="361" height="483" class="img_ev3q"></p>
+<p><strong>Fecha Inicio:</strong> el comienza día del promoción</p>
+<p><strong>Fecha Fin:</strong> el ultima día del promoción</p>
+<p><strong>Descripción:</strong> el concepto de promoción.</p>
+<p><strong>Contenido:</strong> Comentario de los promociones.</p>
+<p><strong>Aplica para:</strong></p>
+<p><strong>•	Domicilio:</strong> Si aceptar el promoción en domicilio.</p>
+<p><strong>•	Llevar:</strong> Si aceptar el promoción en llevar.</p>
+<p><strong>•	Aeropuerto:</strong> Si aceptar el promoción en aeropuerto.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3reporte">3.	Reporte<a href="#3reporte" class="hash-link" aria-label="Direct link to 3.	Reporte" title="Direct link to 3.	Reporte">​</a></h2>
+<p><strong>3.1	Pantalla de Reporte</strong></p>
+<p>Desde la pantalla principal, ingresar a Reportes &gt; Reportes</p>
+<p>Son Visualización de Reportes.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.1 Reporte" src="/documentacion-DSI/assets/images/Maxpoint 3.1 Reporte-2583e79dc21c9524d7a9d5f47fc15102.png" width="965" height="478" class="img_ev3q"></p>
+<p>Las categorías de los reportes se listarán en pantalla. Al presionar sobre una, los reportes de dicha categoría se desplegarán.</p>
+<p>Clic <strong>VENTAS</strong> para abre los listados de reportes.
+“Ventas” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.1 Ventas" src="/documentacion-DSI/assets/images/Maxpoint 3.1 Ventas-38bf5e7e8f15ba354570055b075c858e.png" width="276" height="179" class="img_ev3q"></p>
+<p><strong>Fin de Día:</strong> el reporte para finalizado de día.</p>
+<p><strong>Notas de Crédito:</strong> el reporte para notas de crédito desde fecha de inicio y fecha de final.</p>
+<p><strong>Relación de Caja:</strong> el reporte para relación de caja desde fecha de inicio.</p>
+<p><strong>Transacciones:</strong> el reporte para transacción desde fecha de inicio y fecha de final y 5 tipos de estados.</p>
+<p><strong>Ventas Consolidado:</strong> el reporte para ventas consolidado desde fecha de inicio y fecha de final
+Ingrese la fecha de inicio y fecha de fin luego el botón enviar.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.1 Ventas Ventas Consolidado" src="/documentacion-DSI/assets/images/Maxpoint 3.1 Ventas Ventas Consolidado-ffd13d9f362953d6ca2549f04f193bd5.png" width="629" height="220" class="img_ev3q"></p>
+<p>El informe se creará y se mostrará en pantalla.</p>
+<p><strong>3.2	Administración Reporte</strong></p>
+<p>Desde la pantalla principal, ingresar a Reportes &gt; Administracion Reportes.</p>
+<p>Para nuevas los reportes</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.2 Reportes" src="/documentacion-DSI/assets/images/Maxpoint 3.2 Reportes-d775922e842a11025311e1ae91208736.png" width="963" height="474" class="img_ev3q"></p>
+<p>Las categorías de los reportes se listarán en pantalla.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.2 Categorias" src="/documentacion-DSI/assets/images/Maxpoint 3.2 Categorias-1e02b4131a9f27e75905a37c2d015b2e.png" width="263" height="354" class="img_ev3q"></p>
+<p>Para agregar una nueva categoría, presionar el botón ➕ ubicado debajo de “Categorías”, y llenar la descripción y el estado de la categoría.</p>
+<p>Para modificar una categoría, dar doble clic en ella. La descripción y el estado actual de la categoría seleccionada se desplegarán en pantalla.</p>
+<p>Para eliminar una categoría, seleccionarla con un clic y presionar el botón ❌ ubicado debajo de “Categorías”. El sistema confirmará si se desea eliminar dicha categoría, junto con todos los reportes dentro de esta y sus respectivos parámetros.</p>
+<p>Al seleccionar una categoría, se desplegaran sus reportes.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.2 Categorias Reportes" src="/documentacion-DSI/assets/images/Maxpoint 3.2 Categorias Reportes-db815d7c1bd100e6c8e26c2c7d1e26a1.png" width="633" height="354" class="img_ev3q"></p>
+<p>Para agregar un nuevo reporte, presionar el botón ➕ ubicado debajo de “Reportes”, y llenar el nombre, la descripción, la o las carpetas (en caso de haber) del archivo, el nombre del archivo y el estado del reporte. El reporte se ingresará a la categoría que se encuentre seleccionada.</p>
+<p>Para modificar un reporte, dar doble clic en él. El nombre, la descripción, la o las carpetas (en caso de haber) del archivo, el nombre del archivo y el estado del reporte seleccionado se desplegará en pantalla.</p>
+<p>Para eliminar un reporte, seleccionarlo con un clic y presionar el botón ❌ ubicado debajo de “Reportes”. El sistema confirmará si se desea eliminar dicho reporte, junto con todos sus respectivos parámetros.</p>
+<p>Al seleccionar un reporte, se desplegaran sus parámetros.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 3.2 Notas Credito" src="/documentacion-DSI/assets/images/Maxpoint 3.2 Notas Credito-fd1f116d8c41ece7cb8b8518bb0111f3.png" width="897" height="371" class="img_ev3q"></p>
+<p>Para agregar un nuevo parámetro, presionar el botón ➕ ubicado debajo de “Parámetros”, y llenar la descripción, el nombre del parámetro, el tipo de dato y si el parámetro es obligatorio.</p>
+<ul>
+<li>
+<p>En caso de ser un tipo de dato de “selección”, se deberá ingresar el query de selección.</p>
+</li>
+<li>
+<p>En caso de ser un tipo de dato de “integración”, se deberá seleccionar la tabla de integración.</p>
+</li>
+<li>
+<p>En caso de ser otro tipo de dato y ser un parámetro obligatorio, se deberá seleccionar la columna de integración.</p>
+</li>
+</ul>
+<p>El parámetro se ingresará al reporte que se encuentre seleccionado.</p>
+<p>Para modificar un parámetro, dar doble clic en él. Su descripción, nombre del parámetro, tipo de dato, si el parámetro es obligatorio y su campo de query, tabla de integración o columna de integración. dependiendo del parámetro, se desplegará en pantalla.</p>
+<p>Para eliminar un parámetro, seleccionarlo con un clic y presionar el botón ❌ ubicado debajo de “Parámetros”. El sistema confirmará si se desea eliminar dicho parámetro</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4general">4.	General<a href="#4general" class="hash-link" aria-label="Direct link to 4.	General" title="Direct link to 4.	General">​</a></h2>
+<p><strong>4.1	Forma de pago</strong></p>
+<p>4.1.1	Definición</p>
+<p>Desde la pantalla principal, ingresar a General &gt; Formas de Pago &gt; Definición.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.1 General Formas Pago" src="/documentacion-DSI/assets/images/Maxpoint 4.1.1 General Formas Pago-a0213d871abd8204bab6c4ec111bc273.png" width="1061" height="458" class="img_ev3q"></p>
+<p>Dar doble clic para editar Descripción (campo)
+En la pestaña de “Formas de Pago” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.1 AMERICAN EXPRESS Formas Pago" src="/documentacion-DSI/assets/images/Maxpoint 4.1.1 AMERICAN EXPRESS Formas Pago-bf553289c0d779e4b751e3ff11363e7e.png" width="698" height="518" class="img_ev3q"></p>
+<p><strong>Nivel de Seguridad:</strong> Seleccionar Perfil de nivel de seguridad</p>
+<p><strong>Descripción:</strong> Nombre de Descripción</p>
+<p><strong>Tipo Medios de Pago:</strong> Seleccionar Tipo Medios de pago</p>
+<p><strong>Adquiriente:</strong> Seleccionar adquiriente.</p>
+<p><strong>Código Respuesta DLL Gerente:</strong> <font color="yellow">¿Seleccionar de nombre de Respuesta</font></p>
+<p><strong>Tipo de Facturación:</strong> Seleccionar Tipo de Facturación, el cual se refiere a facturación electrónica.</p>
+<p><strong>Permite Depositar:</strong> Encoge opción Si desea deposita</p>
+<p><strong>Porcentaje Propina:</strong> Si desea porcentaje Propina</p>
+<p><strong>Apertura Cajon:</strong> Encoge opción Si desea deposita apertura cajón</p>
+<p><strong>Permite Propina:</strong> Cantidad de dinero que da voluntaria.</p>
+<p><strong>Es moneda:</strong> Para aceptar las monedas</p>
+<p><strong>Si Autoriza la venta se aplica:</strong> Si desea autorizar</p>
+<p><strong>Permite Deslizar:</strong> Si desea deslizar</p>
+<p><strong>Cargar Imagen:</strong> para subir las imágenes para icono.</p>
+<p>En la pestaña de “Tiendas Aplicar” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.1 AMERICAN EXPRESS Tiendas Aplicar" src="/documentacion-DSI/assets/images/Maxpoint 4.1.1 AMERICAN EXPRESS Tiendas Aplicar-a6ff74deb1ca10092a29eebce6f4c1e1.png" width="790" height="453" class="img_ev3q"></p>
+<p>Para seleccionar los restaurantes para sí activar tipo de forma de pago.</p>
+<p>En la pestaña de “Clientes Aplicar” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.1 AMERICAN EXPRESS Clientes Aplicar" src="/documentacion-DSI/assets/images/Maxpoint 4.1.1 AMERICAN EXPRESS Clientes Aplicar-f241d2a779df6b8e1dbfa5b3b6b01a45.png" width="850" height="488" class="img_ev3q"></p>
+<p>Para seleccionar los clientes para sí aplicar</p>
+<p>En la pestaña de “Políticas de Configuración” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.1 AMERICAN EXPRESS Politicas Configuracion" src="/documentacion-DSI/assets/images/Maxpoint 4.1.1 AMERICAN EXPRESS Politicas Configuracion-ac8d614c12f2199a4d44edee9dd5e9a9.png" width="802" height="441" class="img_ev3q"></p>
+<p>Para seleccionar formas de pagos de políticas de configuración.</p>
+<p>Es importante tener realizadas  las siguientes:</p>
+<ul>
+<li>Imprimir Facturación electrónica</li>
+<li>Revisar el forma de pago</li>
+</ul>
+<p>4.1.2	Tipo formas de pago</p>
+<p>Desde la pantalla principal, ingresar a General &gt; Formas de Pago &gt; Tipo Formas de Pago.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.2 Tipo Formas Pago" src="/documentacion-DSI/assets/images/Maxpoint 4.1.2 Tipo Formas Pago-61b096afd0e0d2692925a9ee87518eb7.png" width="762" height="367" class="img_ev3q"></p>
+<p>Listado de tipo de forma de pago y crear descripción de tipo de forma de pago.</p>
+<p>4.1.3	Red Adquiriente</p>
+<p>Desde la pantalla principal, ingresar a General &gt; Formas de Pago &gt; Red Adquiriente</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.3 Red Adquiriente" src="/documentacion-DSI/assets/images/Maxpoint 4.1.3 Red Adquiriente-133f3a34a3f8279c83968d26f12b1045.png" width="888" height="424" class="img_ev3q"></p>
+<p>Lista de Red Adquiriente y crear descripción de Red Adquiriente.</p>
+<p>Dar clic el boton &quot;Nuevo&quot;</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.1.3 Nuevo Red Adquiriente" src="/documentacion-DSI/assets/images/Maxpoint 4.1.3 Nuevo Red Adquiriente-72d211926d48a379aa92be5492cf325f.png" width="668" height="339" class="img_ev3q"></p>
+<p><strong>Código Red Adquiriente:</strong> el número de código de red adquiriente</p>
+<p><strong>Descripción:</strong> el nombre de empresa de red adquiriente</p>
+<p>Y Presionar el botón “Aceptar”.</p>
+<p><strong>4.2	Impresión</strong></p>
+<p>4.2.1	Tipo de impresora</p>
+<p>Desde la pantalla principal, ingresar a General &gt; Impresión &gt; Tipo de impresora</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.2.1 Tipo Impresora" src="/documentacion-DSI/assets/images/Maxpoint 4.2.1 Tipo Impresora-4bec9f6d87bbb73b332130addaae9db5.png" width="983" height="492" class="img_ev3q"></p>
+<p>Dar doble clic para Nuevo. Y sale mensaje (Nuevo Tipo de Impresora).</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.2.1 Nuevo Tipo Impresora" src="/documentacion-DSI/assets/images/Maxpoint 4.2.1 Nuevo Tipo Impresora-2b315ddcc6497ed18d39a2bffa4dfb58.png" width="540" height="365" class="img_ev3q"></p>
+<p><strong>Nombre:</strong> nombre de impresora</p>
+<p><strong>Código Apertura Caja:</strong> el número de código de apertura caja</p>
+<p><strong>Código Corte papel:</strong> el número de código de corte papel.</p>
+<p><strong>Código impresión normal:</strong> el número de código impresión normal.</p>
+<p>Una vez finalizado, presionar el botón “Aceptar”.</p>
+<p>4.2.2	Canal de impresora</p>
+<p>Desde la pantalla principal, ingresar a General &gt; Impresión &gt; Canales de impresión</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.2.2 Canales Impresion" src="/documentacion-DSI/assets/images/Maxpoint 4.2.2 Canales Impresion-36f012e10ed49b2267e6222d714b82c0.png" width="949" height="456" class="img_ev3q"></p>
+<p>Lista de canales de impresión y crear descripción de canales de impresión.</p>
+<p><strong>4.3	Descuento</strong></p>
+<font color="yellow">Pendientes</font>
+<p><strong>4.4	Motivo Anulación</strong></p>
+<p>Desde la pantalla principal, ingresar a General &gt; Impresión &gt; Motivo Anulación</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.4 Motivo Anulacion" src="/documentacion-DSI/assets/images/Maxpoint 4.4 Motivo Anulacion-ac445827086520023225748bb75a9a4c.png" width="784" height="441" class="img_ev3q"></p>
+<p>Lista de Motivo Anulación y crear descripción de Motivo Anulación.</p>
+<p><strong>4.5	Clientes</strong></p>
+<p>Desde la pantalla principal, ingresar a General &gt; Impresión &gt; Clientes</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.5 Clientes Impresion" src="/documentacion-DSI/assets/images/Maxpoint 4.5 Clientes Impresion-15516f06e778f1e6c4b0b9f7bfd0bdbd.png" width="854" height="423" class="img_ev3q"></p>
+<p>Lista de Clientes y creado los datos personales para facturas.</p>
+<p>En parte superior con El boton &quot;Nuevo&quot;, se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.5 Nuevo Cliente" src="/documentacion-DSI/assets/images/Maxpoint 4.5 Nuevo Cliente-16ca9c9149e570afd090fcd4dc46a18d.png" width="668" height="569" class="img_ev3q"></p>
+<p><strong>Nombres:</strong> Ingrese los nombres</p>
+<p><strong>Apellidos:</strong> Ingrese los apellidos</p>
+<p><strong>Documento:</strong> Encoge el tipo de documento y luego ingrese el número de documento.</p>
+<p><strong>Teléfono:</strong> el número de teléfono</p>
+<p><strong>Ciudad:</strong> Selecciona la ciudad</p>
+<p><strong>Dirección:</strong> Ingrese el dirección</p>
+<p><strong>Email:</strong> el correo electrónico.</p>
+<p><strong>4.6	Impuesto</strong></p>
+<p>Desde la pantalla principal, ingresar a General &gt; impresión &gt;Impuesto.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.6 Impuesto Impresion Impuesto" src="/documentacion-DSI/assets/images/Maxpoint 4.6 Impuesto Impresion Impuesto-a0ae8834f763f3d6d898411856c69b7d.png" width="752" height="360" class="img_ev3q"></p>
+<p>Listado de impuesto del Ecuador</p>
+<p>En parte superior con El botón “Nuevo”, se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.6 Nuevo Impuesto" src="/documentacion-DSI/assets/images/Maxpoint 4.6 Nuevo Impuesto-df06f69eaeeddecca056055a52072705.png" width="703" height="509" class="img_ev3q"></p>
+<p><strong>Ingrese Descripción:</strong> el texto de impuesto de porcentaje (ejm: 12%)</p>
+<p><strong>Ingrese Porcentaje:</strong> ingrese el número de porcentaje</p>
+<p><strong>Ingrese FE código:</strong> el texto de FE código</p>
+<p><strong>Ingrese FE código porcentaje:</strong> el número de FE código.</p>
+<p><strong>Ingrese orden:</strong> el número de orden.</p>
+<p>Una vez finalizado, presionar el botón “Aceptar”.</p>
+<p><strong>4.7	Motivo de caja</strong></p>
+<p>Desde la pantalla principal, ingresar a General &gt; impresión &gt; Motivo de caja.</p>
+<p>Lista de motivo de ingresos y egresos de caja.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.7 Motivo Caja" src="/documentacion-DSI/assets/images/Maxpoint 4.7 Motivo Caja-4eecfc8169251890b4d45ef2aa4e5678.png" width="739" height="367" class="img_ev3q"></p>
+<p>Parte superior con El botón “Nuevo”.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 4.7 Caja Chica Local" src="/documentacion-DSI/assets/images/Maxpoint 4.7 Caja Chica Local-c30ad7fe70995e179c04dd919c1d39c9.png" width="525" height="344" class="img_ev3q"></p>
+<p><strong>Concepto:</strong> Nombre de concepto.</p>
+<p><strong>Signo:</strong> encoje 2 tipos (-) negativo o (+) positivo.</p>
+<p><strong>Nivel:</strong> encoje el número de nivel.</p>
+<p>Una vez finalizado, presionar el botón “Aceptar”.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="5seguridades">5.	Seguridades<a href="#5seguridades" class="hash-link" aria-label="Direct link to 5.	Seguridades" title="Direct link to 5.	Seguridades">​</a></h2>
+<p><strong>5.1	Cambio de clave</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt; Cambio de clave.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.1 Usuario Cambio Clave" src="/documentacion-DSI/assets/images/Maxpoint 5.1 Usuario Cambio Clave-015161ea9c2c55723661c926a626dcf5.png" width="904" height="445" class="img_ev3q"></p>
+<p>Clic el botón “cambiar” para cambio de contraseña</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.1 Cambio de Contraseña" src="/documentacion-DSI/assets/images/Maxpoint 5.1 Cambio de Contraseña-e323e834516dea1485a2bc55acd86121.png" width="669" height="409" class="img_ev3q"></p>
+<p><strong>Contraseña Actual:</strong> Ingrese la anterior clave.</p>
+<p><strong>Contraseña Nueva:</strong> Ingrese la nueva contraseña.</p>
+<p><strong>Confirmación:</strong> Ingrese reconfirma nueva contraseña.</p>
+<p>Una vez finalizado, presionar el botón “Guardar”.</p>
+<p><strong>5.2	Usuarios</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt; Usuarios.</p>
+<p>Lista de usuarios y crear los usuarios</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.2 Lista Usuarios Crear Usuarios" src="/documentacion-DSI/assets/images/Maxpoint 5.2 Lista Usuarios Crear Usuarios-26203ee9be11ee03a3cac125dc1339c6.png" width="916" height="454" class="img_ev3q"></p>
+<p>Parte superior con El botón “Nuevo”.</p>
+<p>En la pestaña de “Datos Personales” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.2 Datos Personales Nuevo Usuario" src="/documentacion-DSI/assets/images/Maxpoint 5.2 Datos Personales Nuevo Usuario-fa5790acf0339102ec9710e41279e90d.png" width="633" height="375" class="img_ev3q"></p>
+<p><strong>Nombre y Apellido:</strong> Ingrese los nombres completos</p>
+<p><strong>Iniciales:</strong> iniciales de nombre y apellidos se ingresará automáticamente.</p>
+<p><strong>Tipo de Documentos:</strong> Encoge los 2 tipos son Cedula o Pasaporte.</p>
+<p><strong>Correo Electrónico:</strong> Ingrese el email.</p>
+<p><strong>Dirección Domicilio:</strong> Ingrese el domicilio.</p>
+<p><strong>Teléfono:</strong> Ingrese el teléfono.</p>
+<p>En la pestaña de “MaxPoint” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.2 Administrador JV" src="/documentacion-DSI/assets/images/Maxpoint 5.2 Administrador JV-0ac9e13a47a0beeb991ad56e28c57b18.png" width="754" height="423" class="img_ev3q"></p>
+<p><strong>Perfil:</strong> Tipo de Perfil se ingresará automáticamente Primera letra de Nombre y todo Apellido.</p>
+<p><strong>Nombre en MaxPoint:</strong> Nombre en MaxPoint</p>
+<p><strong>Fecha de inicio y Fecha de fin:</strong> Ingresar la fecha caduca</p>
+<p><strong>Tarjeta:</strong> Número de Tarjeta</p>
+<p>En la pestaña de “Tiendas” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.2 Administrador JV Tiendas" src="/documentacion-DSI/assets/images/Maxpoint 5.2 Administrador JV Tiendas-a265fb2795f4b8e8711191fdbc9ce1f7.png" width="599" height="400" class="img_ev3q"></p>
+<p>Para activar el seleccionar restaurante en el administrador.</p>
+<p><strong>5.3	Cajeros</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt; Cajeros.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.3 Cajeros" src="/documentacion-DSI/assets/images/Maxpoint 5.3 Cajeros-ac72848af386ad92ac365b707666d807.png" width="786" height="442" class="img_ev3q"></p>
+<p>Listado de cajeros y crear los cajeros.</p>
+<p>Parte superior con El botón “Nuevo”.</p>
+<p>En la pestaña de “Datos Personales” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.3 Nuevo Usuario" src="/documentacion-DSI/assets/images/Maxpoint 5.3 Nuevo Usuario-6d79ffde3e2a0c30f3bef8afdbda01ab.png" width="617" height="366" class="img_ev3q"></p>
+<p><strong>Nombre y Apellido:</strong> Ingrese los nombres completos</p>
+<p><strong>Iniciales:</strong> Iniciales de nombre y apellido, se ingresará automáticamente.</p>
+<p><strong>Tipo de Documentos:</strong> Encoge los 2 tipos son Cedula o Pasaporte.</p>
+<p><strong>Correo Electrónico:</strong> Ingrese el email de personal.</p>
+<p><strong>Dirección Domicilio:</strong> Ingrese el Domicilio.</p>
+<p><strong>Teléfono:</strong> Ingrese el teléfono personal.</p>
+<p>En la pestaña de “MaxPoint” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.3 Administracion JV MaxPoint" src="/documentacion-DSI/assets/images/Maxpoint 5.3 Administracion JV MaxPoint-0ac9e13a47a0beeb991ad56e28c57b18.png" width="754" height="423" class="img_ev3q"></p>
+<p><strong>Perfil:</strong> Tipo de Perfil</p>
+<p><strong>Nombre en MaxPoint:</strong> Nombre en MaxPoint</p>
+<p><strong>Fecha de inicio y Fecha de fin:</strong> Ingresar la fecha caduca</p>
+<p><strong>Tarjeta:</strong> Número de Tarjeta.</p>
+<p>En la pestaña de “Tiendas” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.3 Administracion JV Tiendas" src="/documentacion-DSI/assets/images/Maxpoint 5.3 Administracion JV Tiendas-a265fb2795f4b8e8711191fdbc9ce1f7.png" width="599" height="400" class="img_ev3q"></p>
+<p>Para activar el seleccionar restaurante en el administrador.</p>
+<p><strong>5.4	Perfiles</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt;Perfiles</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.4 Perfiles" src="/documentacion-DSI/assets/images/Maxpoint 5.4 Perfiles-48aeeb5ed8bfb3d04c5fa776a43e6585.png" width="844" height="419" class="img_ev3q"></p>
+<p>Listado de Perfiles y nuevo perfiles.</p>
+<p>Parte superior con El botón “Nuevo”.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.4 Nuevo Perfil" src="/documentacion-DSI/assets/images/Maxpoint 5.4 Nuevo Perfil-82808980aa8588f85b3ea621ca9301fa.png" width="424" height="467" class="img_ev3q"></p>
+<p><strong>Descripción:</strong> Descripción del perfil</p>
+<p><strong>Es cajero?:</strong> Si aplicar el cajero.</p>
+<p><strong>Nivel de Seguridad:</strong> Encoge los nivel de seguridad, se automática sale el cuadro tipo de nivel de seguridad.</p>
+<p><strong>Nivel de Acceso:</strong> Encoge los 3 tipos de nivel son bajo, medio y alta.</p>
+<p><strong>5.5	Pantallas</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt; Pantalla.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.5 Pantallas" src="/documentacion-DSI/assets/images/Maxpoint 5.5 Pantallas-737600b61084d475e6833ed171919653.png" width="809" height="387" class="img_ev3q"></p>
+<p>Parte superior con El botón “Nuevo”.</p>
+<p>En la pestaña de “Pantalla” se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.5 Nueva Pantalla" src="/documentacion-DSI/assets/images/Maxpoint 5.5 Nueva Pantalla-21fc64efcefc1921be408ac73a91f9eb.png" width="674" height="485" class="img_ev3q"></p>
+<p><strong>Tipo de Pantalla:</strong> Hay 3 tipos de pantallas son Menu, SubMenu y Funciones Gerente.</p>
+<p><strong>Nombre MaxPoint:</strong> La descripción del pantalla</p>
+<p><strong>Imagen:</strong> la imagen de icono pero Solo encoge el funciones Gerente (tipo de pantalla).</p>
+<p><strong>Configuración:</strong> Hay 5 tipos de configuraciones las pantallas son modulo, submodulo, inicio, pantalla y subpantalla.</p>
+<p><strong>Predecesor:</strong> Seleccione un predecesor, solo encoge los submodulo, pantalla y subpantalla (Configuración).</p>
+<p><strong>SubNivel:</strong> Hay 2 tipos de subnivel son formas de pagos e impresión.</p>
+<p><strong>Orden Menu:</strong> el orden de menú se automáticamente el número de orden.</p>
+<p><strong>Carpeta:</strong> El directorio del archivos.</p>
+<p><strong>Formulario:</strong> El extensión del archivos.</p>
+<p>En la pestaña de &quot;Acceso Pantalla&quot; se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.5 Nueva Pantalla Acceso Pantalla" src="/documentacion-DSI/assets/images/Maxpoint 5.5 Nueva Pantalla Acceso Pantalla-a69be716e0d5d4f9fea008fa78b97b0a.png" width="621" height="370" class="img_ev3q"></p>
+<p><strong>Accesos:</strong> Hacer el marcado los cuadro (checkbox) para activar el visualizar las pantallas.</p>
+<p><strong>5.6	Acceso</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt; Acceso.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.6 Acceso" src="/documentacion-DSI/assets/images/Maxpoint 5.6 Acceso-4834288dba6cfa1a28f8279f9c66a970.png" width="817" height="389" class="img_ev3q"></p>
+<p>Dar doble clic para editar Acceso.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.6 Acceso Prueba" src="/documentacion-DSI/assets/images/Maxpoint 5.6 Acceso Prueba-c6be1890858108189415d85868d1eb26.png" width="519" height="324" class="img_ev3q"></p>
+<p><strong>Nombre:</strong> Nombre de acceso.</p>
+<p><strong>Descripción:</strong> Descripción de acceso.</p>
+<p><strong>Nivel de Seguridad:</strong> Encoge el nivel de seguridad.</p>
+<p><strong>5.7	Política</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt;Políticas.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.7 Politica" src="/documentacion-DSI/assets/images/Maxpoint 5.7 Politica-be34883e627eeb789f4017b50f345e85.png" width="890" height="429" class="img_ev3q"></p>
+<p>Dar clic el botón <strong>IR A ADMINISTRACION POLITICAS</strong>.</p>
+<p>Cargar sale una página web de Administración de Políticas:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.7 IR A ADMINISTRACION POLITICAS" src="/documentacion-DSI/assets/images/Maxpoint 5.7 IR A ADMINISTRACION POLITICAS-a3e4b90d606f494224e2cd8165275d5d.png" width="676" height="335" class="img_ev3q"></p>
+<p>Dar clic el botón “Nueva Coleccion”</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.7 Coleccion" src="/documentacion-DSI/assets/images/Maxpoint 5.7 Coleccion-4677cd81bfa9f5f965746f5c9c643192.png" width="593" height="613" class="img_ev3q"></p>
+<p><strong>Colección:</strong> La descripción del colección.</p>
+<p><strong>Modulo:</strong> Encoge el tipo de modulo</p>
+<p><strong>Configuración:</strong> Para necesita la configuración, Encoge sí o no</p>
+<p><strong>Reporte:</strong> Para necesita el reporte, Encoge sí o no.</p>
+<p><strong>Cubo:</strong> Encoge sí o no.</p>
+<p><strong>Repertir Configuración:</strong> Para necesita la re-configuración, Encoge sí o no.</p>
+<p><strong>Estado1:</strong> Para necesita la estado 1, Encoge sí o no</p>
+<p><strong>Estado2:</strong> Para necesita la estado 2, Encoge sí o no</p>
+<p><strong>Tabla Integración:</strong> Encoge las tablas en las bases de datos.</p>
+<p><strong>Registro Integración:</strong> Encoge los campos es cada uno  de las columnas  que formas la tabla.</p>
+<p><strong>Observación:</strong> Para ingrese los comentarios.</p>
+<p><strong>Modificado:</strong> Solicito para crear el colección, se sale automáticamente el usuario.</p>
+<p>Luego el botón “Guardar”.</p>
+<p>Dar clic el botón “Nueva Parametro”</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.7 Parametro" src="/documentacion-DSI/assets/images/Maxpoint 5.7 Parametro-87ee5ee609226782cd6e2c3a06ef0342.png" width="701" height="657" class="img_ev3q"></p>
+<p><strong>Parámetro:</strong> Nombre de parámetro</p>
+<p><strong>Tipo de Dato:</strong> Tipo de Dato de campo.</p>
+<p><strong>Especificar Valor:</strong> Encoge el tipo sí o no.</p>
+<p><strong>Obligatorio:</strong> Encoge el tipo sí o no.</p>
+<p><strong>Estado1 y 2:</strong> Encoge el tipo sí o no</p>
+<p><strong>Tabla Integración:</strong> Seleccione una tablas en las bases de datos.</p>
+<p><strong>Registro Integración:</strong> Encoge los campos es cada uno  de las columnas que formas la tabla.</p>
+<p><strong>Modificado:</strong> Solicito para crear el parámetro, se sale automáticamente el usuario.</p>
+<p><strong>5.8	Módulos y estados</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt;Módulos y Estados.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.8 Modulos Estados" src="/documentacion-DSI/assets/images/Maxpoint 5.8 Modulos Estados-746ca6a73a06f7fe84c07ecc3e44187a.png" width="914" height="446" class="img_ev3q"></p>
+<p>Dar clic el botón “+” (Positivo) en el Módulos</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.8 Nuevo Modulo Positivo" src="/documentacion-DSI/assets/images/Maxpoint 5.8 Nuevo Modulo Positivo-5e78961bfe19108e623a2cdbd1803fb1.png" width="727" height="476" class="img_ev3q"></p>
+<p><strong>Descripción:</strong> Ingrese Nombre de Modulo.</p>
+<p><strong>Abreviatura:</strong> Procedimiento que se utiliza para representar palabras solo una.</p>
+<p><strong>Nivel:</strong> Es número de nivel.</p>
+<p>Dar clic el botón “+” (Positivo) en el Estado</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.8 Nuevo Modulo MAS" src="/documentacion-DSI/assets/images/Maxpoint 5.8 Nuevo Modulo MAS-dbc13da7279cb788ef1c7510ead90765.png" width="588" height="372" class="img_ev3q"></p>
+<p><strong>Descripción:</strong> Ingrese Nombre de Estado</p>
+<p><strong>Factor:</strong> Encoge 3 tipos Positivo, Neutro y Negativo</p>
+<p><strong>Nivel:</strong> Es número de nivel.</p>
+<p><strong>5.9	Replicar</strong></p>
+<p>Desde la pantalla principal, ingresar a Seguridades &gt;Replicar.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.9 Replicar" src="/documentacion-DSI/assets/images/Maxpoint 5.9 Replicar-3ad614b0dae977adabe075ab11952de5.png" width="758" height="378" class="img_ev3q"></p>
+<p>Azure: Es un servicio en la nube ofrecida como servicio.</p>
+<p>Distribuidor: un producto para su comercialización, actuando de intermediario entre el productor y el detallista.</p>
+<p>Encoge las listas de opciones (5 tipos Todos, Restaurante, Plus, Facturación y Switch Transaccional)</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.9 Distribuidor" src="/documentacion-DSI/assets/images/Maxpoint 5.9 Distribuidor-2d0d8e58a7426842ccbb625ae6c7de8f.png" width="1124" height="441" class="img_ev3q"></p>
+<p>Sale resultado el listado de modelo.</p>
+<p><strong>Fecha/Hora:</strong> la fecha de modulo</p>
+<p><strong>Lote:</strong> el número de Lote.</p>
+<p><strong>Modulo:</strong> el nombre de modulo</p>
+<p><strong>Estado:</strong> el Tipo de estado.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="6deposito">6.	Deposito<a href="#6deposito" class="hash-link" aria-label="Direct link to 6.	Deposito" title="Direct link to 6.	Deposito">​</a></h2>
+<p><strong>6.1	Desmontar cajero</strong></p>
+<p>En la pantalla principal del sistema, ingresar a Depósitos &gt; Depósitos.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 5.9 Depositos" src="/documentacion-DSI/assets/images/Maxpoint 5.9 Depositos-0de79ebf335b2f4e5bec589239f53d52.png" width="1037" height="382" class="img_ev3q"></p>
+<p>En el lado izquierdo aparecerán las fechas de los períodos de los últimos 7 días. Los botones <strong>7</strong>, <strong>15</strong> y <strong>30</strong> ubicados en la parte superior permiten mostrar los períodos de los últimos 7, 15 y 30 días, respectivamente. En el lado derecho se mostrarán los depósitos del período seleccionado.
+Para agregar un nuevo depósito, presionar el botón “Nuevo” ubicado en la parte superior.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 6.1 Depositos Nuevo Ingreso" src="/documentacion-DSI/assets/images/Maxpoint 6.1 Depositos Nuevo Ingreso-753a076fa069a38e8edccf2ee1feac1a.png" width="725" height="520" class="img_ev3q"></p>
+<p>Ingresar el número de referencia (número de bolsa), la vía de depósito, el código de referencia (número de la papeleta), el valor en monedas y un comentario de ser necesario.
+Las formas de pago que están marcadas que permiten depositar se mostrarán en la parte inferior; el 	botón “Presione Aquí” permite ingresar la cantidad de billetes y las monedas de $1 del depósito.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 6.1 Depositos Billetes" src="/documentacion-DSI/assets/images/Maxpoint 6.1 Depositos Billetes-0c59d06d01d92db4c91118c070c47d0c.png" width="916" height="472" class="img_ev3q"></p>
+<p>Una vez finalizado, presionar el botón “Aceptar”.</p>
+<p><strong>6.2	Depósito</strong></p>
+<p>La ventana del nuevo depósito se actualizará con los valores ingresados.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 6.2 Depositos" src="/documentacion-DSI/assets/images/Maxpoint 6.2 Depositos-44adaeb98f7b9a09638df812757bed61.png" width="684" height="492" class="img_ev3q"></p>
+<p>Finalmente, presionar el botón “Aceptar”.</p>
+<p>En caso de que se necesita realizar un ajuste a un depósito, seleccionar el depósito y presionar el botón “Agregar Ajuste”.</p>
+<p>La siguiente pantalla se mostrará:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 6.2 Agregar Ajuste" src="/documentacion-DSI/assets/images/Maxpoint 6.2 Agregar Ajuste-e6306116de85744deee3cf9b35f429da.png" width="413" height="445" class="img_ev3q"></p>
+<p>Seleccionar el operador positivo (+) o negativo (-), el concepto del ajuste, e ingresar la cantidad.</p>
+<p>Presionar “Aceptar” para finalizar. La pantalla del depósito se actualizará con los valores ingresados.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 6.2 Deposito" src="/documentacion-DSI/assets/images/Maxpoint 6.2 Deposito-d933140e294d3d78fc1c5cdd01c2fe0f.png" width="848" height="608" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="7cadena">7.	Cadena<a href="#7cadena" class="hash-link" aria-label="Direct link to 7.	Cadena" title="Direct link to 7.	Cadena">​</a></h2>
+<p><strong>7.1	Pantalla de Cadenas</strong></p>
+<p>Desde la pantalla principal, ingresar a Cadena &gt; Cadenas</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 7.1 Cadenas" src="/documentacion-DSI/assets/images/Maxpoint 7.1 Cadenas-d54fb021ff6fe6545360a6186158a6fc.png" width="981" height="487" class="img_ev3q"></p>
+<p>Son visualización de cadenas</p>
+<p>Dar clic (+) crear la cadena, se muestra la siguiente pantalla:</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 7.1 Coleccion" src="/documentacion-DSI/assets/images/Maxpoint 7.1 Coleccion-b4df18e4c86c7d283434c476e7127f89.png" width="679" height="372" class="img_ev3q"></p>
+<p>Encoge el listado de colección (descripción) y luego el botón “Guardar”.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="8-soporte">8. 	Soporte<a href="#8-soporte" class="hash-link" aria-label="Direct link to 8. 	Soporte" title="Direct link to 8. 	Soporte">​</a></h2>
+<p><strong>8.1	Consulta periodo y reportes</strong></p>
+<p>Desde la pantalla principal, ingrese a Soporte &gt; Consulta periodo y reportes.</p>
+<p><img loading="lazy" alt="Ejemplo de Maxpoint 8.1 Consultar" src="/documentacion-DSI/assets/images/Maxpoint 8.1 Consultar-5dfcc993800caf664094f452633487e6.png" width="1004" height="493" class="img_ev3q"></p>
+<p><strong>Seleccionar Restaurante:</strong> Selecciona el restaurante. Encoge una tienda</p>
+<p><strong>Seleccionar Consulta:</strong> Selecciona la consulta. Encoge son 3 tipos Periodo, Impresión Desmontado 	Cajero e impresión Fin de Día.</p>
+<p>Y Luego carga el listado de periodo y reportes.</p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="theme-doc-footer-edit-meta-row row"><div class="col"><a href="https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Usuario/Manual del sistema Maxpoint BACKEND ver 2.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_vwxv"></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/documentacion-DSI/docs/Maxpoint/Productos/Usuario/Manual del POS"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Manual del sistema MaxPoint (POS) ver 2</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/documentacion-DSI/docs/category/productos-1"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Productos</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1productos" class="table-of-contents__link toc-highlight">1.	Productos</a></li><li><a href="#2restaurante" class="table-of-contents__link toc-highlight">2.	Restaurante</a></li><li><a href="#3reporte" class="table-of-contents__link toc-highlight">3.	Reporte</a></li><li><a href="#4general" class="table-of-contents__link toc-highlight">4.	General</a></li><li><a href="#5seguridades" class="table-of-contents__link toc-highlight">5.	Seguridades</a></li><li><a href="#6deposito" class="table-of-contents__link toc-highlight">6.	Deposito</a></li><li><a href="#7cadena" class="table-of-contents__link toc-highlight">7.	Cadena</a></li><li><a href="#8-soporte" class="table-of-contents__link toc-highlight">8. 	Soporte</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Docs</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/documentacion-DSI/docs/intro">Temas</a></li></ul></div><div class="col footer__col"><div class="footer__title">Community</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://stackoverflow.com/questions/tagged/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">Stack Overflow<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://discordapp.com/invite/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">Discord<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://twitter.com/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">Twitter<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">More</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/documentacion-DSI/blog">Blog</a></li><li class="footer__item"><a href="https://github.com/facebook/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 My Project, Inc. Built with Docusaurus.</div></div></div></footer></div>
+</body>
+</html>
